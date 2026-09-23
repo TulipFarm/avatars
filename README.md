@@ -1,11 +1,44 @@
 # TulipFarm avatars
 
-Original object illustrations, built into static PNG and SVG files for Cloudflare Pages.
+**[avatars.tulipfarm.ai](https://avatars.tulipfarm.ai/)**
+
+100 original object avatars in eight colors, served as static SVG and PNG files.
 There is no backend, database, image proxy, or runtime image generation.
 
-**Ready for release:** all 100 original object avatars are approved, including the windmill.
-The static home page introduces the collection, with browsing, a JSON index, and an art-review page.
-Each of the five groups contains 20 objects.
+[Browse the gallery](https://avatars.tulipfarm.ai/gallery) |
+[JSON index](https://avatars.tulipfarm.ai/index.json) |
+[Full manifest](https://avatars.tulipfarm.ai/manifest.json) |
+[Art review](https://avatars.tulipfarm.ai/review)
+
+<p>
+  <img src="https://avatars.tulipfarm.ai/tulip.png" alt="Tulip avatar" width="72" height="72">
+  <img src="https://avatars.tulipfarm.ai/cactus.png" alt="Cactus avatar" width="72" height="72">
+  <img src="https://avatars.tulipfarm.ai/mug.png" alt="Mug avatar" width="72" height="72">
+  <img src="https://avatars.tulipfarm.ai/windmill.png" alt="Windmill avatar" width="72" height="72">
+  <img src="https://avatars.tulipfarm.ai/rose.png" alt="Rose avatar" width="72" height="72">
+  <img src="https://avatars.tulipfarm.ai/tractor.png" alt="Tractor avatar" width="72" height="72">
+</p>
+
+Flowers, plants, garden tools, harvest objects, cozy objects, and creative supplies.
+Each of the five groups contains 20 drawings, with fine outlines, soft shading,
+muted colors, and subtle background grain. All images are generated at build time
+and served as static files through Cloudflare Pages.
+
+## Use an avatar
+
+Copy a link from the gallery, or use an image directly:
+
+```html
+<img
+  src="https://avatars.tulipfarm.ai/avatar/umbrella/pink/64.png"
+  width="64"
+  height="64"
+  alt="Umbrella avatar"
+>
+```
+
+No account or API key is needed. Use `/umbrella.png` for the default color at 256 pixels,
+or `/avatar/umbrella/pink.svg` for a scalable vector.
 
 ## Local build and art review
 
@@ -32,16 +65,16 @@ Generated files stay out of Git.
 
 ## URLs
 
-The production domain is `https://avatars.tulipfarm.ai`.
+The production domain is <https://avatars.tulipfarm.ai/>.
 These paths are physical files, not routes that render images.
 
 | Path | File |
 | --- | --- |
-| `/umbrella.png` | Curated default color, 256 x 256 |
-| `/umbrella.svg` | Curated default color, scalable SVG |
-| `/avatar/umbrella/pink.png` | Pink, 256 x 256 |
-| `/avatar/umbrella/pink.svg` | Pink, scalable SVG |
-| `/avatar/umbrella/pink/64.png` | Pink, 64 x 64 |
+| [`/umbrella.png`](https://avatars.tulipfarm.ai/umbrella.png) | Curated default color, 256 x 256 |
+| [`/umbrella.svg`](https://avatars.tulipfarm.ai/umbrella.svg) | Curated default color, scalable SVG |
+| [`/avatar/umbrella/pink.png`](https://avatars.tulipfarm.ai/avatar/umbrella/pink.png) | Pink, 256 x 256 |
+| [`/avatar/umbrella/pink.svg`](https://avatars.tulipfarm.ai/avatar/umbrella/pink.svg) | Pink, scalable SVG |
+| [`/avatar/umbrella/pink/64.png`](https://avatars.tulipfarm.ai/avatar/umbrella/pink/64.png) | Pink, 64 x 64 |
 
 Explicit PNG sizes: **32, 64, 128, 256, 512**.
 Colors: **pink, coral, orange, yellow, green, teal, blue, purple**.
@@ -56,11 +89,12 @@ Each avatar also has a content-derived `revision`. Gallery and art-review previe
 The version changes only when that avatar's generated image bytes change.
 The gallery copies production-domain links. Local and Pages-preview images use relative paths.
 Copied public URLs remain clean and stable, with no preview version attached.
-Copied production links do not become live until the domain is deployed.
+Copied links use `https://avatars.tulipfarm.ai/`, including when browsing a local preview.
 
 ## JSON index
 
-`/index.json` is the compact, public collection index. It is generated from the same catalog
+[`/index.json`](https://avatars.tulipfarm.ai/index.json) is the compact, public collection index.
+It is generated from the same catalog
 as the images, not maintained by hand. Its top-level fields are:
 
 - `schemaVersion`: currently `1`.
@@ -106,7 +140,7 @@ only after actual art approval. Do not mark unfinished drawings as approved to b
 The initial four established the approved style. All 100 use the same muted palettes,
 outlines, shading, gradient, and grain. The latest additions include roses, a seed tray,
 a tractor, a birdhouse, a croissant, a typewriter, and a globe.
-The source artwork and code are provided under the repository's Apache 2.0 license.
+The source artwork and code are provided under the [Apache 2.0 license](LICENSE).
 
 ## Checks
 
