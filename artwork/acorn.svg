@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Acorn</title><circle cx="128" cy="128" r="120" fill="#C7864F" data-fill="circle"/>
+  <g stroke="#5F4030" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M131 84c-6-20-2-37 12-44l7 9c-14 8-13 20-10 34Z" fill="#CFA878" data-fill="secondary"/>
+    <path d="M144 62c18-30 41-20 45-8-8 21-26 23-45 8Z" fill="#CFA878" data-fill="secondary"/>
+    <path d="m148 62 29-7" fill="none"/>
+    <path d="M81 121h94c4 39-13 66-46 87-33-18-51-45-48-87Z" fill="#E2CCAE" data-fill="main"/>
+    <path d="M150 125c2 37-6 56-21 83 33-21 50-48 46-83Z" fill="#B3865B" data-fill="shadow" stroke="none" opacity=".6"/>
+    <path d="M73 121c2-30 20-48 56-48 31 0 51 17 54 48-32 14-80 14-110 0Z" fill="#CFA878" data-fill="secondary"/>
+    <path d="m84 107 14 11 15-11 15 12 16-12 16 11 13-11m-82-11 14 10 16-12 16 12 16-12 16 10m-67-18 15 9 17-11 16 10 14-8" fill="none" stroke-width="1.7"/>
+    <path d="M94 141c0 17 7 32 17 42" fill="none" stroke="#E4DBCA" data-stroke="highlight" stroke-width="5"/>
+    <path d="M94 88c9-6 17-8 28-8" fill="none" stroke="#E4DBCA" data-stroke="highlight" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Thermos</title><circle cx="128" cy="128" r="120" fill="#4B8C89" data-fill="circle"/>
+  <g stroke="#304E50" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-10 128 128)">
+    <path d="M158 110h17c18 0 18 49 0 49h-17v-12h12c7 0 7-25 0-25h-12Z" fill="#96BAB4" data-fill="secondary"/>
+    <rect x="91" y="74" width="70" height="137" rx="17" fill="#C0D6CB" data-fill="main"/>
+    <path d="M142 80v113c0 8-4 14-10 18h12c10 0 17-8 17-17V91c0-8-7-14-19-11Z" fill="#72A09B" data-fill="shadow" stroke="none" opacity=".6"/>
+    <path d="M96 80V52c0-14 60-14 60 0v28Z" fill="#96BAB4" data-fill="secondary"/>
+    <ellipse cx="126" cy="51" rx="30" ry="9" fill="#C0D6CB" data-fill="main"/>
+    <path d="M96 72c17 7 43 7 60 0m-62 117c17 9 46 9 64 0" fill="none"/>
+    <path d="M112 140c-3-17 13-25 29-20 2 18-10 31-29 20Z" fill="#96BAB4" data-fill="secondary"/>
+    <path d="m109 147 24-21" fill="none"/>
+    <path d="M103 92v79m2-111v8" fill="none" stroke="#D6E2DC" data-stroke="highlight" stroke-width="4"/>
+  </g>
+</svg>

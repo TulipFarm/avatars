@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Lantern</title><circle cx="128" cy="128" r="120" fill="#CCAE55" data-fill="circle"/>
+  <g stroke="#574933" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M109 65V53c0-24 38-24 38 0v12" fill="none" stroke="#807047" data-stroke="accent" stroke-width="5"/>
+    <path d="M93 94h70l13 79-16 20H96l-16-20Z" fill="#E4D9B2" data-fill="main"/>
+    <path d="m151 95 11 76-14 21h12l16-19-13-79Z" fill="#A39563" data-fill="shadow" stroke="none" opacity=".5"/>
+    <path d="M109 174c-14-24 12-28 15-53 5 17 30 27 18 52Z" fill="#C8BA88" data-fill="secondary"/>
+    <path d="M120 174c-6-10 5-15 8-25 5 10 14 18 7 25Z" fill="#E5E1D0" data-fill="highlight"/>
+    <path d="M99 105 90 166" fill="none" stroke="#E5E1D0" data-stroke="highlight" stroke-width="5"/>
+    <path d="M88 91c9-9 19-14 24-27h32c5 13 15 18 24 27Z" fill="#C8BA88" data-fill="secondary"/>
+    <path d="M82 91h92v10H82Zm13 94h66l14 22H81Z" fill="#9A8B58" data-fill="shadow"/>
+    <path d="M107 104v79m43-79v79m-63-48h82m-85 25h88" fill="none" stroke="#807047" data-stroke="accent" stroke-width="2"/>
+    <rect x="78" y="203" width="100" height="10" rx="4" fill="#C8BA88" data-fill="secondary"/>
+  </g>
+</svg>

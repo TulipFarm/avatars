@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Camera</title><circle cx="128" cy="128" r="120" fill="#536EA6" data-fill="circle"/>
+  <g stroke="#314060" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M57 99h-8v20h8m142-20h9v20h-9" fill="#9AADCB" data-fill="secondary"/>
+    <rect x="59" y="84" width="140" height="105" rx="14" fill="#C2CEE2" data-fill="main"/>
+    <path d="M176 85v103h9c9 0 14-5 14-13V98c0-9-7-14-23-13Z" fill="#758AB2" data-fill="shadow" stroke="none"/>
+    <path d="M59 118h140v51H59Z" fill="#9AADCB" data-fill="secondary"/>
+    <path d="m98 84 10-17h44l10 17" fill="#9AADCB" data-fill="secondary"/>
+    <rect x="70" y="76" width="19" height="8" rx="3" fill="#4F658C" data-fill="accent"/>
+    <rect x="168" y="95" width="18" height="12" rx="2" fill="#D9DEE5" data-fill="highlight"/>
+    <circle cx="128" cy="139" r="39" fill="#C2CEE2" data-fill="main"/>
+    <circle cx="128" cy="139" r="30" fill="#4F658C" data-fill="accent"/>
+    <circle cx="128" cy="139" r="22" fill="#758AB2" data-fill="shadow"/>
+    <path d="M145 132c5 18-17 32-28 21 23 0 27-8 28-21Z" fill="#314060" data-fill="outline" stroke="none" opacity=".6"/>
+    <path d="M111 135c1-8 7-13 14-14" fill="none" stroke="#D9DEE5" data-stroke="highlight" stroke-width="5"/>
+    <path d="M72 98h15m-15 79h24" fill="none" stroke="#D9DEE5" data-stroke="highlight" stroke-width="3"/>
+  </g>
+</svg>

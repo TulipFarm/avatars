@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Honey jar</title><circle cx="128" cy="128" r="120" fill="#C7864F" data-fill="circle"/>
+  <g stroke="#5F4030" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 91h63l13 27v77c0 16-89 16-89 0v-77Z" fill="#CFA878" data-fill="secondary"/>
+    <path d="m142 97 9 25v75c-5 5-12 7-18 8 17 0 31-4 31-10v-77l-13-27Z" fill="#B3865B" data-fill="shadow" stroke="none"/>
+    <rect x="86" y="75" width="68" height="21" rx="5" fill="#E2CCAE" data-fill="main"/>
+    <path d="M94 82h51m-49 8h46" fill="none" stroke="#B3865B" data-stroke="shadow" stroke-width="2"/>
+    <path d="M76 137h87v44H76Z" fill="#E2CCAE" data-fill="main"/>
+    <path d="m120 146 12 7v14l-12 7-12-7v-14Z" fill="#CFA878" data-fill="secondary"/>
+    <path d="M87 114v17m0 60v5" fill="none" stroke="#E4DBCA" data-stroke="highlight" stroke-width="5"/>
+    <g transform="rotate(23 185 99)">
+      <path d="M181 65h8v104c0 6-8 6-8 0Z" fill="#CFA878" data-fill="secondary"/>
+      <rect x="172" y="41" width="26" height="43" rx="10" fill="#E2CCAE" data-fill="main"/>
+      <path d="M174 50h22m-23 8h24m-24 8h24m-22 8h20" fill="none" stroke="#935E3E" data-stroke="accent" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

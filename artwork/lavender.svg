@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Lavender</title>
+  <circle cx="128" cy="128" r="120" fill="#55539A" data-fill="circle"/>
+  <g stroke="#393658" data-stroke="outline" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m131 210-5-143m0 137L83 98m45 107 45-112" fill="none" stroke="#6A5B92" data-stroke="accent" stroke-width="4"/>
+    <path d="M122 177c-15-8-26-25-24-40 15 10 23 22 24 40Zm12-5c3-19 14-35 29-41-2 18-14 34-29 41Z" fill="#A79ECB" data-fill="secondary"/>
+    <g fill="#C9C4E1" data-fill="main">
+      <ellipse cx="126" cy="48" rx="8" ry="13"/><ellipse cx="118" cy="65" rx="9" ry="12" transform="rotate(-25 118 65)"/><ellipse cx="134" cy="65" rx="9" ry="12" transform="rotate(25 134 65)"/>
+      <ellipse cx="117" cy="84" rx="10" ry="13" transform="rotate(-30 117 84)"/><ellipse cx="135" cy="84" rx="10" ry="13" transform="rotate(30 135 84)"/>
+      <ellipse cx="78" cy="74" rx="8" ry="12" transform="rotate(-25 78 74)"/><ellipse cx="75" cy="93" rx="9" ry="12" transform="rotate(-35 75 93)"/><ellipse cx="91" cy="88" rx="9" ry="12"/>
+      <ellipse cx="82" cy="111" rx="9" ry="12" transform="rotate(-35 82 111)"/><ellipse cx="98" cy="105" rx="9" ry="12"/>
+      <ellipse cx="180" cy="69" rx="8" ry="12" transform="rotate(25 180 69)"/><ellipse cx="168" cy="84" rx="9" ry="12"/><ellipse cx="184" cy="90" rx="9" ry="12" transform="rotate(35 184 90)"/>
+      <ellipse cx="162" cy="104" rx="9" ry="12"/><ellipse cx="178" cy="109" rx="9" ry="12" transform="rotate(35 178 109)"/>
+    </g>
+    <path d="M124 43v9m-8 28 2 7m47 13-2 6m-89-15 3 5" fill="none" stroke="#DBD7E4" data-stroke="highlight" stroke-width="3"/>
+    <path d="m113 183 28-2 1 10-29 2Z" fill="#887CAE" data-fill="shadow"/>
+    <path d="M127 188c-23-18-25 11-2 3m6-3c20-20 26 7 2 3m-7 5-10 13m16-13 12 10" fill="none"/>
+  </g>
+</svg>

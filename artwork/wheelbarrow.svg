@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Wheelbarrow</title><circle cx="128" cy="128" r="120" fill="#C7864F" data-fill="circle"/>
+  <g stroke="#5F4030" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m79 186 40-53 49 9 11 49h-16l-14-36-56 35" fill="none" stroke="#935E3E" data-stroke="accent" stroke-width="6"/>
+    <path d="m111 156 82-54 16-1" fill="none" stroke="#935E3E" data-stroke="accent" stroke-width="7"/>
+    <path d="m47 94 129-7-23 65-65 7Z" fill="#E2CCAE" data-fill="main"/>
+    <path d="m141 97-18 58 30-3 23-65Z" fill="#B3865B" data-fill="shadow" stroke="none" opacity=".6"/>
+    <path d="m58 102 34 46 60-5" fill="none" stroke="#E4DBCA" data-stroke="highlight" stroke-width="4"/>
+    <path d="M46 93c32-13 96-18 131-7l-1 9c-42-6-86-2-124 8Z" fill="#CFA878" data-fill="secondary"/>
+    <ellipse cx="79" cy="186" rx="22" ry="25" fill="#935E3E" data-fill="accent"/>
+    <ellipse cx="77" cy="184" rx="12" ry="15" fill="#CFA878" data-fill="secondary"/>
+    <circle cx="77" cy="184" r="4" fill="#E4DBCA" data-fill="highlight"/>
+    <path d="m197 99 14-2" fill="none" stroke="#CFA878" data-stroke="secondary" stroke-width="12"/>
+    <path d="M148 204h36" fill="none" stroke="#935E3E" data-stroke="accent" opacity=".4"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Teapot</title><circle cx="128" cy="128" r="120" fill="#55539A" data-fill="circle"/>
+  <g stroke="#393658" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M170 98c52-18 62 54 4 61l-5-15c37-3 41-39 6-31Z" fill="#A79ECB" data-fill="secondary"/>
+    <path d="M93 121c-20 5-28-8-32-29L40 82c2 40 17 65 45 70Z" fill="#C9C4E1" data-fill="main"/>
+    <path d="M97 102c-21 12-27 34-20 61 7 28 30 40 58 40 32 0 56-15 59-44 3-26-6-45-27-57Z" fill="#C9C4E1" data-fill="main"/>
+    <path d="M163 106c29 43 6 83-23 96 30-2 51-17 54-43 3-26-6-45-27-57Z" fill="#887CAE" data-fill="shadow" stroke="none" opacity=".6"/>
+    <path d="M94 132c-6 15-6 28 1 39" fill="none" stroke="#DBD7E4" data-stroke="highlight" stroke-width="6"/>
+    <path d="M92 105c9-22 72-22 85 0Z" fill="#A79ECB" data-fill="secondary"/>
+    <ellipse cx="135" cy="81" rx="10" ry="7" fill="#C9C4E1" data-fill="main"/>
+    <path d="M111 97c9-4 22-5 30-4" fill="none" stroke="#DBD7E4" data-stroke="highlight" stroke-width="3"/>
+    <path d="M107 199v8c13 6 41 6 55 0v-8" fill="#A79ECB" data-fill="secondary"/>
+    <path d="M124 162c13-17 21-18 29-11-5 15-14 18-29 11Z" fill="#A79ECB" data-fill="secondary"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Garden hose</title><circle cx="128" cy="128" r="120" fill="#4B8C89" data-fill="circle"/>
+  <g stroke="#304E50" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M167 174c-12 25-49 31-75 13-40-28-30-86 15-99 41-12 79 20 74 57-4 31-38 48-65 33-29-16-24-56 1-64 27-9 51 13 44 36-5 18-28 23-39 10-11-12-3-31 13-27 35 7 56-9 59-32" fill="none" stroke-width="15"/>
+    <path d="M167 174c-12 25-49 31-75 13-40-28-30-86 15-99 41-12 79 20 74 57-4 31-38 48-65 33-29-16-24-56 1-64 27-9 51 13 44 36-5 18-28 23-39 10-11-12-3-31 13-27 35 7 56-9 59-32" fill="none" stroke="#96BAB4" data-stroke="secondary" stroke-width="10"/>
+    <path d="M77 136c-1-20 11-35 26-41m-3 50c-3-14 4-25 15-30" fill="none" stroke="#D6E2DC" data-stroke="highlight" stroke-width="3"/>
+    <path d="m187 96 15 3 4-21-15-3Z" fill="#C0D6CB" data-fill="main"/>
+    <path d="m193 77-19-11-6 8-13-7 10-16 37 18Z" fill="#C0D6CB" data-fill="main"/>
+    <path d="m165 51-6-4-11 18 7 3m28 3-7 13 9 4 7-12" fill="#72A09B" data-fill="shadow"/>
+    <path d="m140 48-6-5m4 17h-9m18-22-2-8" fill="none" stroke="#D6E2DC" data-stroke="highlight" stroke-width="3"/>
+  </g>
+</svg>

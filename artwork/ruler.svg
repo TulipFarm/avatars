@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Ruler</title><circle cx="128" cy="128" r="120" fill="#CCAE55" data-fill="circle"/>
+  <g stroke="#574933" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" transform="rotate(35 128 128)">
+    <rect x="101" y="37" width="54" height="182" rx="5" fill="#E4D9B2" data-fill="main"/>
+    <path d="M144 39v174h-40v4h46c3 0 5-2 5-5V42Z" fill="#A39563" data-fill="shadow" stroke="none" opacity=".6"/>
+    <circle cx="128" cy="54" r="6" fill="#807047" data-fill="accent"/>
+    <path d="M103 76h20m-20 10h11m-11 10h11m-11 10h20m-20 10h11m-11 10h11m-11 10h20m-20 10h11m-11 10h11m-11 10h20m-20 10h11m-11 10h11m-11 10h20m-20 10h11" fill="none" stroke-width="1.8"/>
+    <path d="M132 77v6m0 23v6m0 24v6m0 23v6m0 24v6" fill="none" stroke="#807047" data-stroke="accent"/>
+    <path d="M140 68v139m-29-164h29" fill="none" stroke="#E5E1D0" data-stroke="highlight" stroke-width="3"/>
+  </g>
+</svg>

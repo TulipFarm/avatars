@@ -1,0 +1,10 @@
+{
+  "pink": {"circle":"#C5648B","outline":"#592F43","main":"#E1C5CF","secondary":"#C88FA7","highlight":"#E4DADE","shadow":"#AB6585","accent":"#954669"},
+  "coral": {"circle":"#C46E66","outline":"#5D3537","main":"#E2C8BF","secondary":"#CFA093","highlight":"#E4DBD4","shadow":"#B0756C","accent":"#954E4D"},
+  "orange": {"circle":"#C7864F","outline":"#5F4030","main":"#E2CCAE","secondary":"#CFA878","highlight":"#E4DBCA","shadow":"#B3865B","accent":"#935E3E"},
+  "yellow": {"circle":"#CCAE55","outline":"#574933","main":"#E4D9B2","secondary":"#C8BA88","highlight":"#E5E1D0","shadow":"#A39563","accent":"#807047"},
+  "green": {"circle":"#5E896A","outline":"#314C3E","main":"#C5D3B6","secondary":"#9BB391","highlight":"#D9E0CE","shadow":"#7A9C7C","accent":"#4C6D55"},
+  "teal": {"circle":"#4B8C89","outline":"#304E50","main":"#C0D6CB","secondary":"#96BAB4","highlight":"#D6E2DC","shadow":"#72A09B","accent":"#477575"},
+  "blue": {"circle":"#536EA6","outline":"#314060","main":"#C2CEE2","secondary":"#9AADCB","highlight":"#D9DEE5","shadow":"#758AB2","accent":"#4F658C"},
+  "purple": {"circle":"#55539A","outline":"#393658","main":"#C9C4E1","secondary":"#A79ECB","highlight":"#DBD7E4","shadow":"#887CAE","accent":"#6A5B92"}
+}

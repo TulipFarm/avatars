@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Succulent</title><circle cx="128" cy="128" r="120" fill="#55539A" data-fill="circle"/>
+  <g stroke="#393658" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M86 155h84l-9 48c-12 15-55 15-67 0Z" fill="#C9C4E1" data-fill="main"/>
+    <path d="m151 158-8 45c-4 5-9 7-17 9 15 1 29-2 35-9l9-45Z" fill="#887CAE" data-fill="shadow" stroke="none" opacity=".6"/>
+    <ellipse cx="128" cy="155" rx="44" ry="13" fill="#6A5B92" data-fill="accent"/>
+    <path d="M128 153c-45 0-68-25-68-59 36 0 61 20 68 59Zm0 0c4-41 32-65 69-61-4 37-27 60-69 61Z" fill="#A79ECB" data-fill="secondary"/>
+    <path d="M128 147c-36-15-53-45-40-74 31 13 46 37 40 74Zm0 0c-2-37 10-61 43-77 12 33-3 63-43 77Z" fill="#C9C4E1" data-fill="main"/>
+    <path d="M128 144c-20-27-24-63 0-99 25 32 25 65 0 99Z" fill="#A79ECB" data-fill="secondary"/>
+    <path d="M127 149c-24-7-37-22-34-44 24 5 38 22 34 44Zm1 0c1-23 15-39 37-43-2 24-12 38-37 43Z" fill="#C9C4E1" data-fill="main"/>
+    <path d="M128 145c-11-15-10-28 0-40 12 14 11 29 0 40Z" fill="#DBD7E4" data-fill="highlight"/>
+    <path d="M100 174l4 22m19-131c-5 14-5 24-2 34" fill="none" stroke="#DBD7E4" data-stroke="highlight" stroke-width="4"/>
+  </g>
+</svg>

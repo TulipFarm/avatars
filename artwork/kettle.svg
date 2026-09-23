@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Kettle</title><circle cx="128" cy="128" r="120" fill="#536EA6" data-fill="circle"/>
+  <g stroke="#314060" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M86 113V86c0-61 98-61 98 0v41" fill="none" stroke-width="13"/>
+    <path d="M86 113V86c0-61 98-61 98 0v41" fill="none" stroke="#9AADCB" data-stroke="secondary" stroke-width="8"/>
+    <path d="M98 67c14-24 58-24 73 0" fill="none" stroke="#4F658C" data-stroke="accent" stroke-width="13"/>
+    <path d="M88 133c-15-3-23-15-27-30l-18 7c5 33 15 57 40 59Z" fill="#C2CEE2" data-fill="main"/>
+    <ellipse cx="52" cy="106" rx="11" ry="5" transform="rotate(-23 52 106)" fill="#9AADCB" data-fill="secondary"/>
+    <path d="M105 107c-25 15-39 48-30 74 17 24 95 24 113 0 11-28-7-62-31-74Z" fill="#C2CEE2" data-fill="main"/>
+    <path d="M160 113c19 39 15 64-12 82 18-1 34-6 40-14 10-26-5-56-28-68Z" fill="#758AB2" data-fill="shadow" stroke="none" opacity=".6"/>
+    <ellipse cx="131" cy="109" rx="31" ry="8" fill="#9AADCB" data-fill="secondary"/>
+    <path d="M123 100v-8c0-7 16-7 16 0v8" fill="#4F658C" data-fill="accent"/>
+    <path d="M88 164c-1-15 8-31 16-38m-17 54c22 12 68 12 89 0" fill="none" stroke="#D9DEE5" data-stroke="highlight" stroke-width="4"/>
+    <path d="M83 197h98" fill="none" stroke="#4F658C" data-stroke="accent" stroke-width="4"/>
+  </g>
+</svg>

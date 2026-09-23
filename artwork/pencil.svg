@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Pencil</title><circle cx="128" cy="128" r="120" fill="#CCAE55" data-fill="circle"/>
+  <g transform="rotate(35 128 128)" stroke="#574933" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M114 71h28v111l-14 35-14-35Z" fill="#E4D9B2" data-fill="main"/>
+    <path d="M134 72h8v110l-14 35 6-39Z" fill="#A39563" data-fill="shadow" stroke="none"/>
+    <path d="M122 72v104m12-104v104" fill="none" stroke="#807047" data-stroke="accent" stroke-width="1.5"/>
+    <path d="m114 182 8-6 6 6 6-6 8 6-14 35Z" fill="#E5E1D0" data-fill="highlight"/>
+    <path d="m123 205 5 12 5-12Z" fill="#807047" data-fill="accent"/>
+    <path d="M114 60V45c0-16 28-16 28 0v15Z" fill="#C8BA88" data-fill="secondary"/>
+    <path d="M134 35v24h8V45c0-5-3-9-8-10Z" fill="#A39563" data-fill="shadow" stroke="none"/>
+    <rect x="112" y="57" width="32" height="20" rx="3" fill="#C8BA88" data-fill="secondary"/>
+    <path d="M116 63h24m-24 8h24" fill="none" stroke="#E5E1D0" data-stroke="highlight" stroke-width="2"/>
+    <path d="M119 87v73" fill="none" stroke="#E5E1D0" data-stroke="highlight" stroke-width="2"/>
+  </g>
+</svg>

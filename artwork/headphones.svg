@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Headphones</title><circle cx="128" cy="128" r="120" fill="#55539A" data-fill="circle"/>
+  <g stroke="#393658" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M61 152v-37c0-85 134-85 134 0v37h-15v-37c0-64-104-64-104 0v37Z" fill="#A79ECB" data-fill="secondary"/>
+    <path d="M70 111c0-72 116-72 116 0" fill="none" stroke="#DBD7E4" data-stroke="highlight" stroke-width="4"/>
+    <path d="M62 118h14v42H62m104-42h15v42h-15" fill="none"/>
+    <rect x="51" y="134" width="40" height="61" rx="17" fill="#C9C4E1" data-fill="main"/>
+    <rect x="81" y="131" width="17" height="67" rx="8" fill="#6A5B92" data-fill="accent"/>
+    <rect x="165" y="134" width="40" height="61" rx="17" fill="#C9C4E1" data-fill="main"/>
+    <path d="M188 135v43c0 8-4 14-11 17h11c12 0 17-8 17-17v-27c0-10-7-16-17-16Z" fill="#887CAE" data-fill="shadow" stroke="none" opacity=".65"/>
+    <rect x="158" y="131" width="17" height="67" rx="8" fill="#6A5B92" data-fill="accent"/>
+    <path d="M62 146v28m119-28v17" fill="none" stroke="#DBD7E4" data-stroke="highlight" stroke-width="4"/>
+    <path d="M74 195c1 20 47 1 50 21" fill="none" stroke="#6A5B92" data-stroke="accent" stroke-width="3"/>
+  </g>
+</svg>

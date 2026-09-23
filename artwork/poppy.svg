@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Poppy</title><circle cx="128" cy="128" r="120" fill="#C46E66" data-fill="circle"/>
+  <g stroke="#5D3537" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M119 209c2-31 14-66 11-102" fill="none" stroke="#954E4D" data-stroke="accent" stroke-width="5"/>
+    <path d="m124 184-24-7 6-9-16-9 9-7-11-15 23 8 1 12 13 8m5-9 18-8-2-9 16-4-1-12 18-11-5 24-10 2-4 15-17 2Z" fill="#CFA093" data-fill="secondary"/>
+    <path d="M129 93c-28-52-71-39-65-9-16 31 26 53 65 22-7 49 40 60 51 31 32-15 16-52-37-42 47-20 41-55 16-53-26-16-50 13-30 51Z" fill="#E2C8BF" data-fill="main"/>
+    <path d="M72 97c11 20 35 18 57 3-7 30 3 44 21 46-23 2-33-13-22-39-29 20-48 9-56-10Z" fill="#B0756C" data-fill="shadow" stroke="none" opacity=".6"/>
+    <path d="m82 76 27 13m54-31-18 23m24 43-22-15" fill="none" opacity=".4"/>
+    <circle cx="131" cy="98" r="16" fill="#954E4D" data-fill="accent"/>
+    <circle cx="131" cy="98" r="7" fill="#CFA093" data-fill="secondary"/>
+    <path d="m131 78 1 6m17 5-6 3m2 20-5-5m-20 8 5-7m-15-14 7 1" fill="none"/>
+    <path d="M71 82c-3-11 6-18 16-16m67-17c9-3 18 1 20 9" fill="none" stroke="#E4DBD4" data-stroke="highlight" stroke-width="4"/>
+  </g>
+</svg>

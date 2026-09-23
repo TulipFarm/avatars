@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Fountain pen</title><circle cx="128" cy="128" r="120" fill="#55539A" data-fill="circle"/>
+  <g transform="rotate(35 128 128)" stroke="#393658" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M114 66c0-28 28-28 28 0v81h-28Z" fill="#A79ECB" data-fill="secondary"/>
+    <path d="M132 46v101h10V66c0-10-4-17-10-20Z" fill="#887CAE" data-fill="shadow" stroke="none"/>
+    <path d="M120 59v67" fill="none" stroke="#DBD7E4" data-stroke="highlight" stroke-width="4"/>
+    <path d="M115 60h15v38c0 7-6 7-6 0V66h-9" fill="#C9C4E1" data-fill="main"/>
+    <rect x="112" y="138" width="32" height="12" rx="3" fill="#C9C4E1" data-fill="main"/>
+    <path d="m116 151 2 20h20l2-20Z" fill="#6A5B92" data-fill="accent"/>
+    <path d="m118 169-7 19 17 32 17-32-7-19Z" fill="#C9C4E1" data-fill="main"/>
+    <path d="m128 171 17 17-17 32Z" fill="#887CAE" data-fill="shadow" stroke="none" opacity=".5"/>
+    <path d="M128 188v32" fill="none" stroke-width="1.5"/>
+    <circle cx="128" cy="185" r="3.5" fill="#6A5B92" data-fill="accent" stroke-width="1.5"/>
+    <path d="m119 175-3 11 7 13" fill="none" stroke="#DBD7E4" data-stroke="highlight" stroke-width="2"/>
+  </g>
+</svg>

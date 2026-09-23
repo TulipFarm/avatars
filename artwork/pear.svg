@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Pear</title><circle cx="128" cy="128" r="120" fill="#CCAE55" data-fill="circle"/>
+  <g stroke="#574933" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M125 78c7-17 4-27-1-33l10-4c9 11 7 24-1 38Z" fill="#807047" data-fill="accent"/>
+    <path d="M132 62c22-17 40-12 47 0-16 13-31 13-47 0Z" fill="#C8BA88" data-fill="secondary"/>
+    <path d="M108 81c-10 11-9 33-20 49-20 26-29 48-14 68 18 24 89 24 108-1 15-20 5-42-15-68-11-16-10-38-20-48-10-10-29-10-39 0Z" fill="#E4D9B2" data-fill="main"/>
+    <path d="M141 76c8 16 10 40 22 61 20 36 8 61-22 74 20-2 34-7 41-14 15-20 5-42-15-68-11-16-10-38-20-48Z" fill="#A39563" data-fill="shadow" stroke="none" opacity=".55"/>
+    <path d="M117 87c-6 12-7 28-14 42m-15 25c-8 12-9 20-5 27" fill="none" stroke="#E5E1D0" data-stroke="highlight" stroke-width="5"/>
+    <path d="m107 169 1 1m16 16 1 1m18-26 1 1m-3 32 1 1m-22-37 1 1" fill="none" stroke="#A39563" data-stroke="shadow" stroke-width="3"/>
+  </g>
+</svg>

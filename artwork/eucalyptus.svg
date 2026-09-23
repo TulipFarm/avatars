@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Eucalyptus</title><circle cx="128" cy="128" r="120" fill="#4B8C89" data-fill="circle"/>
+  <g stroke="#304E50" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M117 213c13-50 11-100 28-167" fill="none" stroke="#477575" data-stroke="accent" stroke-width="4"/>
+    <path d="M125 182c-30 10-58-2-56-21 4-24 40-18 56 21Z" fill="#C0D6CB" data-fill="main"/>
+    <path d="M126 164c16-31 46-40 53-19 9 24-22 36-53 19Z" fill="#96BAB4" data-fill="secondary"/>
+    <path d="M130 135c-31 5-51-8-48-27 5-20 37-14 48 27Z" fill="#96BAB4" data-fill="secondary"/>
+    <path d="M134 114c15-26 44-34 48-14 5 22-23 30-48 14Z" fill="#C0D6CB" data-fill="main"/>
+    <path d="M139 87c-26-1-39-14-34-30 7-18 33-6 34 30Z" fill="#C0D6CB" data-fill="main"/>
+    <path d="M143 65c3-26 23-35 31-19 8 16-6 28-31 19Z" fill="#96BAB4" data-fill="secondary"/>
+    <path d="M124 181 84 161m43 2 38-13m-37-17-32-21m39 1 33-9m-31-19-19-21m26 0 18-14" fill="none" opacity=".35"/>
+    <path d="M76 159c6-10 18-8 25-2m46-51c10-9 19-12 24-6m-58-38c3-8 10-4 14 0" fill="none" stroke="#D6E2DC" data-stroke="highlight" stroke-width="3.5"/>
+  </g>
+</svg>

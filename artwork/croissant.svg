@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Croissant</title><circle cx="128" cy="128" r="120" fill="#C7864F" data-fill="circle"/>
+  <g stroke="#5F4030" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M82 112c-20 8-28 25-31 50-3 21 6 30 19 35 4-18 15-29 31-35m74-50c22 8 30 28 32 50 2 20-7 31-20 35-4-18-15-29-31-35" fill="#CFA878" data-fill="secondary"/>
+    <path d="M62 180c6-13 15-23 30-31m102 31c-6-13-15-23-30-31" fill="none" opacity=".5"/>
+    <path d="M65 122c5-28 29-47 51-45l12 44-29 47c-23-3-33-19-34-46Z" fill="#E2CCAE" data-fill="main"/>
+    <path d="M191 122c-5-28-29-47-51-45l-12 44 29 47c23-3 33-19 34-46Z" fill="#E2CCAE" data-fill="main"/>
+    <path d="M104 71c12-8 36-8 49 0l16 57c-4 25-22 45-41 50-19-5-36-24-41-50Z" fill="#CFA878" data-fill="secondary"/>
+    <path d="M142 69c5 44 3 75-14 109 19-5 37-25 41-50l-16-57Z" fill="#B3865B" data-fill="shadow" stroke="none" opacity=".6"/>
+    <path d="M100 89c17 7 38 7 57 0m-61 17c19 9 44 9 66 0m-72 20c22 11 52 11 76 0m-69 19c19 7 41 7 62 0" fill="none" stroke-width="1.6"/>
+    <path d="M76 121c3-13 9-22 17-26m20-17c8-3 17-3 24-1m35 26c5 7 8 13 9 21" fill="none" stroke="#E4DBCA" data-stroke="highlight" stroke-width="4"/>
+  </g>
+</svg>

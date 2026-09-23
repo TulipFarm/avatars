@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Compost bin</title><circle cx="128" cy="128" r="120" fill="#5E896A" data-fill="circle"/>
+  <g stroke="#314C3E" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M78 83h100l-9 119H87Z" fill="#C5D3B6" data-fill="main"/>
+    <path d="m156 85-7 117h20l9-117Z" fill="#7A9C7C" data-fill="shadow" stroke="none" opacity=".6"/>
+    <rect x="72" y="70" width="112" height="18" rx="5" fill="#9BB391" data-fill="secondary"/>
+    <path d="M105 70v-9c0-10 46-10 46 0v9h-10v-8h-26v8" fill="#9BB391" data-fill="secondary"/>
+    <path d="M104 169h48v33h-48Z" fill="#9BB391" data-fill="secondary"/>
+    <path d="M119 178h18m-43-24h13m42 0h13m-69-48h18m37 0h17" fill="none"/>
+    <path d="M112 142c-11-23 12-37 36-24 0 23-18 35-36 24Z" fill="#9BB391" data-fill="secondary"/>
+    <path d="m110 150 29-27m-17 15-2-11m7 6h10" fill="none"/>
+    <path d="M87 98l4 40m-9-61h62" fill="none" stroke="#D9E0CE" data-stroke="highlight" stroke-width="4"/>
+    <path d="M84 206h88" fill="none" stroke="#4C6D55" data-stroke="accent" stroke-width="4"/>
+  </g>
+</svg>

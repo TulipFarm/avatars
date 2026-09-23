@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Sprout</title>
+  <circle cx="128" cy="128" r="120" fill="#5E896A" data-fill="circle"/>
+  <g stroke="#314C3E" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M82 171h92l-12 34H94Z" fill="#9BB391" data-fill="secondary"/>
+    <path d="m151 172-9 33h20l12-34Z" fill="#7A9C7C" data-fill="shadow" stroke="none"/>
+    <ellipse cx="128" cy="172" rx="46" ry="10" fill="#4C6D55" data-fill="accent"/>
+    <path d="M127 172c-1-25 2-50 15-72" fill="none" stroke="#4C6D55" data-stroke="accent" stroke-width="6"/>
+    <path d="M133 132c-35 6-63-17-69-49 36-8 68 13 69 49Z" fill="#9BB391" data-fill="secondary"/>
+    <path d="M140 105c-4-32 20-54 54-57 2 32-20 57-54 57Z" fill="#C5D3B6" data-fill="main"/>
+    <path d="M133 132 77 95m63 10 40-44" fill="none" stroke="#4C6D55" data-stroke="accent" stroke-width="2"/>
+    <path d="M147 85c7-14 20-21 32-23" fill="none" stroke="#D9E0CE" data-stroke="highlight" stroke-width="5"/>
+    <path d="M97 185h40" fill="none" stroke="#C5D3B6" data-stroke="main" stroke-width="4"/>
+    <path d="M79 177h97" fill="none" stroke-width="4"/>
+  </g>
+</svg>

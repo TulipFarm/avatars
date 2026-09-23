@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Mug</title>
+  <circle cx="128" cy="128" r="120" fill="#3D9995" data-fill="circle"/>
+  <g stroke="#244E52" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 106h16c16 0 25 12 25 26 0 23-18 37-42 36l2-15c15 0 24-9 24-20 0-8-4-13-12-13h-14Z" fill="#9ACEC5" data-fill="secondary"/>
+    <path d="M176 112h7c12 0 20 9 20 21" fill="none" stroke="#EAFBF2" data-stroke="highlight" stroke-width="3"/>
+    <ellipse cx="123" cy="204" rx="59" ry="8" fill="#3B7D7D" data-fill="accent" stroke="none" opacity=".35"/>
+    <path d="M70 105h104l-6 65c-2 21-17 33-44 33-28 0-44-12-47-33Z" fill="#CEEEDE" data-fill="main"/>
+    <path d="m155 111 18-3-5 62c-2 21-17 33-44 33h-5c22-8 30-23 32-43Z" fill="#6EAFA9" data-fill="shadow" stroke="none" opacity=".72"/>
+    <path d="m83 126 4 39c1 11 6 19 13 23" fill="none" stroke="#EAFBF2" data-stroke="highlight" stroke-width="6"/>
+    <path d="M70 105h104l-6 65c-2 21-17 33-44 33-28 0-44-12-47-33Z" fill="none"/>
+    <ellipse cx="122" cy="105" rx="52" ry="12" fill="#EAFBF2" data-fill="highlight"/>
+    <ellipse cx="122" cy="106" rx="43" ry="7" fill="#3B7D7D" data-fill="accent" stroke-width="1.5"/>
+    <path d="M84 105c17-4 50-5 74 0" fill="none" stroke="#9ACEC5" data-stroke="secondary" stroke-width="2"/>
+    <path d="M102 83c-13-13 10-18-1-33m23 31c-13-17 13-23 1-40m21 44c-9-11 9-17 3-27" fill="none" stroke="#EAFBF2" data-stroke="highlight" stroke-width="3" opacity=".85"/>
+    <path d="M118 177v-15m0 11c-7-1-11-6-12-12 8 0 12 5 12 12m0-7c7-1 10-5 11-11-7 0-11 5-11 11" fill="none" stroke="#3B7D7D" data-stroke="accent" stroke-width="2"/>
+    <path d="M118 159c-8-2-10-8-8-14l8 4 8-4c2 6-1 12-8 14Z" fill="#9ACEC5" data-fill="secondary" stroke="#3B7D7D" data-stroke="accent" stroke-width="1.8"/>
+  </g>
+</svg>

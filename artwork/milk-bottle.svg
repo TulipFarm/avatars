@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Milk bottle</title><circle cx="128" cy="128" r="120" fill="#536EA6" data-fill="circle"/>
+  <g stroke="#314060" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M107 60h42v24c0 14 20 20 23 41v75c0 15-88 15-88 0v-75c3-21 23-27 23-41Z" fill="#C2CEE2" data-fill="main"/>
+    <path d="M140 65v24c1 16 18 24 18 42v72l-14 7c15-2 28-5 28-10v-75c-3-21-23-27-23-41V65Z" fill="#758AB2" data-fill="shadow" stroke="none" opacity=".55"/>
+    <path d="M87 136c20 6 60 6 82 0v59c-20 10-60 10-82 0Z" fill="#D9DEE5" data-fill="highlight"/>
+    <path d="M100 144h56v39h-56Z" fill="#9AADCB" data-fill="secondary"/>
+    <path d="M128 151c-4 8-11 12-11 18 0 13 22 13 22 0 0-6-7-10-11-18Z" fill="#C2CEE2" data-fill="main"/>
+    <rect x="101" y="46" width="54" height="19" rx="5" fill="#9AADCB" data-fill="secondary"/>
+    <path d="M110 50v10m9-10v10m9-10v10m9-10v10m9-10v10" fill="none" stroke-width="1.5"/>
+    <path d="M115 75v10c0 15-20 27-20 42m0 57v10" fill="none" stroke="#D9DEE5" data-stroke="highlight" stroke-width="4"/>
+  </g>
+</svg>

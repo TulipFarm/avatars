@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Seed packet</title><circle cx="128" cy="128" r="120" fill="#C5648B" data-fill="circle"/>
+  <g transform="rotate(-9 128 128)" stroke="#592F43" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M81 52h94v152H81Z" fill="#E1C5CF" data-fill="main"/>
+    <path d="M160 53h15v151h-15Z" fill="#AB6585" data-fill="shadow" stroke="none" opacity=".55"/>
+    <path d="M81 52h94v23H81Zm0 131h94v21H81Z" fill="#C88FA7" data-fill="secondary"/>
+    <path d="M89 58v9m9-9v9m9-9v9m9-9v9m9-9v9m9-9v9m9-9v9m9-9v9m9-9v9M89 193h78" fill="none" stroke-width="1.5"/>
+    <rect x="96" y="88" width="62" height="79" rx="28" fill="#E4DADE" data-fill="highlight"/>
+    <path d="M127 150v-29m0 16c-17 0-25-11-24-23 16 1 24 10 24 23Zm0-8c0-15 9-25 24-25 0 15-10 25-24 25Z" fill="#C88FA7" data-fill="secondary"/>
+    <path d="M114 155h27" fill="none" stroke="#954669" data-stroke="accent"/>
+    <ellipse cx="188" cy="210" rx="5" ry="8" transform="rotate(35 188 210)" fill="#C88FA7" data-fill="secondary"/>
+    <ellipse cx="173" cy="218" rx="4" ry="7" transform="rotate(70 173 218)" fill="#E1C5CF" data-fill="main"/>
+  </g>
+</svg>

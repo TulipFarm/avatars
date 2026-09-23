@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Flower pot</title><circle cx="128" cy="128" r="120" fill="#C46E66" data-fill="circle"/>
+  <g stroke="#5D3537" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="208" rx="50" ry="7" fill="#954E4D" data-fill="accent" opacity=".25" stroke="none"/>
+    <path d="M77 101h102l-18 94c-3 17-62 17-66 0Z" fill="#CFA093" data-fill="secondary"/>
+    <path d="m151 109-13 95c14-1 21-4 23-9l18-94Z" fill="#B0756C" data-fill="shadow" stroke="none"/>
+    <path d="m88 126 13 59" fill="none" stroke="#E2C8BF" data-stroke="main" stroke-width="6"/>
+    <path d="M67 83h122v29c-17 13-103 13-122 0Z" fill="#E2C8BF" data-fill="main"/>
+    <ellipse cx="128" cy="83" rx="61" ry="15" fill="#CFA093" data-fill="secondary"/>
+    <ellipse cx="128" cy="84" rx="46" ry="9" fill="#954E4D" data-fill="accent"/>
+    <path d="M89 85c22-8 51-8 78 0" fill="none" stroke="#B0756C" data-stroke="shadow" stroke-width="3"/>
+    <path d="M78 99c19 7 41 7 54 7" fill="none" stroke="#E4DBD4" data-stroke="highlight" stroke-width="4"/>
+    <path d="M99 192c13 5 29 6 44 3" fill="none" stroke="#B0756C" data-stroke="shadow"/>
+  </g>
+</svg>

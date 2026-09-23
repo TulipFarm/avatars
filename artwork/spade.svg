@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Spade</title><circle cx="128" cy="128" r="120" fill="#536EA6" data-fill="circle"/>
+  <g stroke="#314060" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" transform="rotate(22 128 128)">
+    <path d="M121 77h14v80h-14Z" fill="#9AADCB" data-fill="secondary"/>
+    <path d="M106 40h44v21c0 13-9 23-22 23s-22-10-22-23Zm10 10v11c0 7 5 13 12 13s12-6 12-13V50Z" fill="#C2CEE2" data-fill="main" fill-rule="evenodd"/>
+    <path d="M94 144h68v35c0 21-18 34-34 41-18-8-34-20-34-41Z" fill="#C2CEE2" data-fill="main"/>
+    <path d="M143 146v32c0 17-6 29-15 42 16-7 34-20 34-41v-33Z" fill="#758AB2" data-fill="shadow" stroke="none" opacity=".65"/>
+    <path d="M94 144h25v10h18v-10h25" fill="none"/>
+    <path d="M128 158v39" fill="none" opacity=".5"/>
+    <path d="M103 160v16c0 10 5 18 11 23m9-110v44" fill="none" stroke="#D9DEE5" data-stroke="highlight" stroke-width="4"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Vase</title><circle cx="128" cy="128" r="120" fill="#536EA6" data-fill="circle"/>
+  <g stroke="#314060" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="214" rx="45" ry="6" fill="#4F658C" data-fill="accent" opacity=".25" stroke="none"/>
+    <path d="M103 57h50c-11 24-13 38-4 55 16 23 40 40 34 66-5 24-29 32-55 32s-50-8-55-32c-6-26 18-43 34-66 9-17 7-31-4-55Z" fill="#C2CEE2" data-fill="main"/>
+    <path d="M142 59c-13 24-8 43 9 65 27 34 17 64-17 85 24-1 45-10 49-31 6-26-18-43-34-66-9-17-7-31 4-55Z" fill="#758AB2" data-fill="shadow" stroke="none" opacity=".6"/>
+    <ellipse cx="128" cy="57" rx="25" ry="7" fill="#9AADCB" data-fill="secondary"/>
+    <ellipse cx="128" cy="57" rx="15" ry="3" fill="#4F658C" data-fill="accent" stroke="none"/>
+    <path d="M99 136c-15 17-19 31-13 45" fill="none" stroke="#D9DEE5" data-stroke="highlight" stroke-width="6"/>
+    <path d="M79 172c26 17 62 21 100 0M99 120c18 8 39 8 58 0" fill="none" stroke="#9AADCB" data-stroke="secondary" stroke-width="3"/>
+    <path d="M128 187v-45m0 30c-15-1-21-8-22-20 12 1 21 8 22 20Zm1-13c12-1 19-9 21-18-13-1-20 7-21 18Z" fill="none" stroke="#4F658C" data-stroke="accent" stroke-width="2"/>
+  </g>
+</svg>

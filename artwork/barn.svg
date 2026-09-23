@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Barn</title><circle cx="128" cy="128" r="120" fill="#C46E66" data-fill="circle"/>
+  <g stroke="#5D3537" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M62 112 88 70l40-20 40 20 26 42v88H62Z" fill="#E2C8BF" data-fill="main"/>
+    <path d="M164 86v114h30v-88l-26-42-40-20Z" fill="#B0756C" data-fill="shadow" stroke="none" opacity=".55"/>
+    <path d="M54 112 82 64l46-24 46 24 28 48-10 7-28-46-36-19-36 19-28 46Z" fill="#CFA093" data-fill="secondary"/>
+    <path d="M73 123v65m13-64v64m83-64v64m13-65v65" fill="none" stroke-width="1.4" opacity=".55"/>
+    <rect x="93" y="130" width="70" height="70" rx="2" fill="#CFA093" data-fill="secondary"/>
+    <path d="M128 131v69m-31-65 27 60m4-60 31 60m0-60-27 60m-8-60-27 60" fill="none" stroke="#E4DBD4" data-stroke="highlight" stroke-width="4"/>
+    <path d="M114 84h28v29h-28Z" fill="#954E4D" data-fill="accent"/>
+    <path d="M128 85v27m-13-14h26" fill="none" stroke="#E2C8BF" data-stroke="main"/>
+    <path d="M72 108 94 76l31-16" fill="none" stroke="#E4DBD4" data-stroke="highlight" stroke-width="3"/>
+    <path d="M55 202h146" fill="none" stroke="#954E4D" data-stroke="accent" stroke-width="4"/>
+  </g>
+</svg>

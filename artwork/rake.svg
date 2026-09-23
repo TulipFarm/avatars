@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Rake</title><circle cx="128" cy="128" r="120" fill="#CCAE55" data-fill="circle"/>
+  <g stroke="#574933" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-20 128 128)">
+    <rect x="121" y="90" width="14" height="125" rx="6" fill="#C8BA88" data-fill="secondary"/>
+    <path d="M105 83h46l-16 27h-14Z" fill="#E4D9B2" data-fill="main"/>
+    <path d="M78 55h100v12H78Z" fill="#E4D9B2" data-fill="main"/>
+    <path d="M78 61v27m17-27v30m17-30v31m16-31v32m17-32v31m16-31v30m17-30v27" fill="none" stroke-width="7"/>
+    <path d="M78 61v25m17-25v28m17-28v29m16-29v30m17-30v29m16-29v28m17-28v25" fill="none" stroke="#9B9063" data-stroke="shadow" stroke-width="3"/>
+    <path d="M84 59h88m-47 62v77" fill="none" stroke="#E5E1D0" data-stroke="highlight" stroke-width="3"/>
+    <circle cx="128" cy="206" r="2" fill="#807047" data-fill="accent" stroke="none"/>
+  </g>
+</svg>

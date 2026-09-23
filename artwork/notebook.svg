@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Notebook</title><circle cx="128" cy="128" r="120" fill="#536EA6" data-fill="circle"/>
+  <g transform="rotate(-10 128 128)" stroke="#314060" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 52h88c7 0 11 5 11 11v141H85c-9 0-15-6-15-14V66c0-8 4-14 10-14Z" fill="#9AADCB" data-fill="secondary"/>
+    <path d="M82 185h97v19H83c-14 0-14-19-1-19Z" fill="#D9DEE5" data-fill="highlight"/>
+    <path d="M83 53h86v132H83Z" fill="#C2CEE2" data-fill="main"/>
+    <path d="M157 53h12v132h-12Z" fill="#758AB2" data-fill="shadow" stroke="none"/>
+    <path d="M83 53v131" fill="none" stroke="#4F658C" data-stroke="accent"/>
+    <rect x="99" y="80" width="52" height="38" rx="4" fill="#D9DEE5" data-fill="highlight"/>
+    <path d="M110 92h30m-24 12h18m-32 89h75m-75 5h75" fill="none" stroke="#9AADCB" data-stroke="secondary" stroke-width="2"/>
+    <path d="M137 186v34l9-7 9 7v-34" fill="#4F658C" data-fill="accent"/>
+    <path d="M92 64h52" fill="none" stroke="#D9DEE5" data-stroke="highlight" stroke-width="4"/>
+  </g>
+</svg>

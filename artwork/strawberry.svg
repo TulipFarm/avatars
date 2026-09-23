@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Strawberry</title><circle cx="128" cy="128" r="120" fill="#C5648B" data-fill="circle"/>
+  <g stroke="#592F43" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 109c-1-28 22-39 64-25 42-14 66-3 65 25-1 45-48 101-65 102-17-1-63-57-64-102Z" fill="#E1C5CF" data-fill="main"/>
+    <path d="M171 86c16 37-15 99-49 122 26 22 100-102 49-122Z" fill="#AB6585" data-fill="shadow" stroke="none" opacity=".65"/>
+    <path d="M125 85c-5-23-1-34 9-40l7 6c-11 9-12 19-11 34" fill="#954669" data-fill="accent"/>
+    <path d="m125 85-29-22 3 21-28 5 26 10-8 23 35-18 24 19-1-23 29-8-31-11 11-17Z" fill="#C88FA7" data-fill="secondary"/>
+    <path d="m126 88-21 11m23-10 14 12" fill="none" stroke="#954669" data-stroke="accent" stroke-width="1.5"/>
+    <path d="m82 117-1 6m25-10-1 6m28-4-1 6m27-8-1 6m-67 19 1 6m25-12v6m25-6v6m22-10-1 6m-57 13 2 5m23-3v6m19-7-2 5m-24 15 2 5" fill="none" stroke="#954669" data-stroke="accent" stroke-width="3"/>
+    <path d="M75 109c-1 11 2 20 5 27" fill="none" stroke="#E4DADE" data-stroke="highlight" stroke-width="5"/>
+  </g>
+</svg>

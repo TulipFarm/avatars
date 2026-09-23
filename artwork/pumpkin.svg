@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Pumpkin</title><circle cx="128" cy="128" r="120" fill="#C7864F" data-fill="circle"/>
+  <g stroke="#5F4030" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M119 100c10-17 9-32 1-42l18-6c10 15 8 34 0 48Z" fill="#935E3E" data-fill="accent"/>
+    <path d="M130 87c18-29 40-28 51-17-13 18-29 22-51 17Z" fill="#CFA878" data-fill="secondary"/>
+    <path d="M127 103c-45-34-79-8-74 41 2 29 18 54 45 53 20 14 42 13 62 0 27 2 42-25 44-53 4-49-31-75-77-41Z" fill="#CFA878" data-fill="secondary"/>
+    <ellipse cx="107" cy="148" rx="30" ry="55" fill="#E2CCAE" data-fill="main"/>
+    <ellipse cx="151" cy="148" rx="30" ry="55" fill="#E2CCAE" data-fill="main"/>
+    <path d="M165 97c24 38 14 93-10 105 23-6 32-76 10-105Z" fill="#B3865B" data-fill="shadow" stroke="none"/>
+    <ellipse cx="129" cy="150" rx="24" ry="58" fill="#E2CCAE" data-fill="main"/>
+    <path d="M139 101c14 31 7 90-7 106 25-10 29-82 7-106Z" fill="#B3865B" data-fill="shadow" stroke="none" opacity=".5"/>
+    <path d="M122 108c-8 16-9 37-8 49m-19-47c-10 16-13 36-9 50" fill="none" stroke="#E4DBCA" data-stroke="highlight" stroke-width="4"/>
+    <path d="M149 66c27-19 45 8 26 10" fill="none" stroke="#935E3E" data-stroke="accent" stroke-width="3"/>
+  </g>
+</svg>

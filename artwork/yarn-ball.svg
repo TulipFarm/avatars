@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Yarn ball</title><circle cx="128" cy="128" r="120" fill="#55539A" data-fill="circle"/>
+  <g stroke="#393658" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M153 189c15 24 53 16 48-1-6-15-25 2-11 13 8 7 13 9 20 7" fill="none" stroke-width="5"/>
+    <path d="M153 189c15 24 53 16 48-1-6-15-25 2-11 13 8 7 13 9 20 7" fill="none" stroke="#A79ECB" data-stroke="secondary" stroke-width="2.5"/>
+    <path d="m86 85 77-48m-12 67 23-60" fill="none" stroke-width="6"/>
+    <path d="m86 85 77-48m-12 67 23-60" fill="none" stroke="#C9C4E1" data-stroke="main" stroke-width="3"/>
+    <circle cx="166" cy="35" r="6" fill="#A79ECB" data-fill="secondary"/>
+    <circle cx="175" cy="41" r="6" fill="#A79ECB" data-fill="secondary"/>
+    <circle cx="122" cy="135" r="66" fill="#C9C4E1" data-fill="main"/>
+    <path d="M104 72c24 9 48 31 67 66l15 10c-9 40-47 62-82 50 26-35 27-74 0-126Z" fill="#A79ECB" data-fill="secondary"/>
+    <path d="M65 103c33 5 69 28 91 87m-86-97c35 6 73 35 94 91m-86-99c36 9 73 35 94 91m-86-96c36 9 73 35 94 86m-83-91c33 10 65 37 87 78M59 119c24 7 45 27 56 78m-58-64c20 7 38 25 47 64m-45-48c15 8 25 19 31 43m46-121c21 18 37 36 50 58m-34-53c15 13 27 29 34 43" fill="none" stroke-width="1.6"/>
+    <path d="M112 73c28 10 54 36 74 70m-66-71c27 12 50 34 67 60" fill="none" stroke="#DBD7E4" data-stroke="highlight" stroke-width="2.5"/>
+    <path d="M74 116c13 7 24 16 33 30" fill="none" stroke="#DBD7E4" data-stroke="highlight" stroke-width="4"/>
+  </g>
+</svg>
