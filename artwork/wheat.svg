@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Wheat</title><circle cx="128" cy="128" r="120" fill="#CCAE55" data-fill="circle"/>
+  <g stroke="#574933" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M111 212c12-40 13-105 17-158m-8 155c-5-45-19-79-39-109m45 109c18-41 33-70 55-97" fill="none" stroke="#807047" data-stroke="accent" stroke-width="4"/>
+    <path d="M127 70c-13-7-14-20 1-35 14 14 14 26-1 35Zm0 23c-18-2-27-13-23-28 16 1 23 10 23 28Zm1-9c1-19 10-29 25-28 1 16-7 26-25 28Zm-2 32c-19-3-29-14-25-29 18 2 26 12 25 29Zm1-11c3-17 13-26 28-25-1 17-10 25-28 25Zm-2 34c-19-4-28-14-25-29 18 2 25 12 25 29Zm2-12c4-17 13-25 28-23-2 16-12 24-28 23Z" fill="#E4D9B2" data-fill="main"/>
+    <path d="M87 111c-18-1-27-11-23-25 16 0 24 10 23 25Zm11 22c-21 1-33-10-30-25 18 0 29 10 30 25Zm0-3c-5-21-2-34 11-38 9 15 6 29-11 38Zm56 29c-3-19 2-33 15-37 8 16 2 29-15 37Zm12-23c7-22 20-31 33-24-4 17-17 24-33 24Zm-16 40c7-23 21-33 34-27-3 18-16 25-34 27Z" fill="#C8BA88" data-fill="secondary"/>
+    <path d="m104 183 32 6-4 11-31-7Z" fill="#E4D9B2" data-fill="main"/>
+    <path d="m126 48 1 12m-18 11 10 12m24-19-8 11m-27 21 10 12" fill="none" stroke="#E5E1D0" data-stroke="highlight" stroke-width="3"/>
+  </g>
+</svg>

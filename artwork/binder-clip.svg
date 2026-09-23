@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Binder clip</title><circle cx="128" cy="128" r="120" fill="#55539A" data-fill="circle"/>
+  <g stroke="#393658" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M109 118 98 72c-7-33 53-41 55-8l3 50" fill="none" stroke-width="9"/>
+    <path d="M109 118 98 72c-7-33 53-41 55-8l3 50" fill="none" stroke="#C9C4E1" data-stroke="main" stroke-width="4.5"/>
+    <path d="m72 120 82-18 36 76-103 24Z" fill="#A79ECB" data-fill="secondary"/>
+    <path d="m154 102 34 13 15 70-13-7Z" fill="#887CAE" data-fill="shadow"/>
+    <path d="m87 202 103-24 13 7-106 24Z" fill="#6A5B92" data-fill="accent"/>
+    <path d="m79 120 12 66m9-70 12 64" fill="none" stroke="#DBD7E4" data-stroke="highlight" stroke-width="3" opacity=".7"/>
+    <path d="M113 176 98 119c-7-33 50-46 58-13l14 55" fill="none" stroke-width="9"/>
+    <path d="M113 176 98 119c-7-33 50-46 58-13l14 55" fill="none" stroke="#C9C4E1" data-stroke="main" stroke-width="4.5"/>
+    <path d="M102 119c-5-20 17-29 31-26m-31-23c-3-14 15-24 28-19" fill="none" stroke="#DBD7E4" data-stroke="highlight" stroke-width="2"/>
+    <circle cx="113" cy="176" r="5" fill="#C9C4E1" data-fill="main"/>
+    <circle cx="170" cy="162" r="5" fill="#C9C4E1" data-fill="main"/>
+  </g>
+</svg>

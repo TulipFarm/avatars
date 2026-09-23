@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Cookie</title><circle cx="128" cy="128" r="120" fill="#C7864F" data-fill="circle"/>
+  <g stroke="#5F4030" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M129 51c13-7 28-1 35 8 15-2 28 9 32 22 14 5 20 21 16 34 9 13 5 31-5 41 1 15-10 28-24 32-7 15-23 20-36 14-14 9-30 6-40-3-16 2-28-7-32-21-15-5-24-19-19-33-10-12-10-29 0-39-2-15 8-28 22-31 9-17 34-29 51-24Z" fill="#E2CCAE" data-fill="main"/>
+    <path d="M198 89c9 49-27 94-66 106-22 6-39-1-52-12 7 12 17 18 27 16 10 9 26 12 40 3 13 6 29 1 36-14 14-4 25-17 24-32 10-10 14-28 5-41 3-11-1-20-14-26Z" fill="#B3865B" data-fill="shadow" stroke="none" opacity=".5"/>
+    <path d="m87 88 14-6 9 15-13 8-12-6Zm56-16 14 6-2 15-16 1-4-10Zm25 43 17-3 6 14-12 12-14-6Zm-49 7 16-4 9 13-12 14-17-7Zm-41 24 14 3 1 16-17 3-6-12Zm42 28 13-5 12 11-8 15-16-5Z" fill="#935E3E" data-fill="accent"/>
+    <path d="M72 108c3-10 7-17 16-20m-14 37-2 7" fill="none" stroke="#E4DBCA" data-stroke="highlight" stroke-width="4"/>
+    <path d="m119 76 1 1m-9 80 1 1m49 11 1 1m-3-58 1 1m-57 19 1 1m73 40 1 1" fill="none" stroke="#B3865B" data-stroke="shadow" stroke-width="4"/>
+  </g>
+</svg>

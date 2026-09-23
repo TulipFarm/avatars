@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Envelope</title><circle cx="128" cy="128" r="120" fill="#C5648B" data-fill="circle"/>
+  <g stroke="#592F43" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-9 128 128)">
+    <rect x="48" y="77" width="160" height="108" rx="7" fill="#E1C5CF" data-fill="main"/>
+    <path d="m53 182 66-59h18l66 59Z" fill="#C88FA7" data-fill="secondary"/>
+    <path d="m53 80 66 66c5 5 13 5 18 0l66-66Z" fill="#E1C5CF" data-fill="main"/>
+    <path d="m58 83 61 54c5 5 13 5 18 0l61-54-61 63c-5 5-13 5-18 0Z" fill="#AB6585" data-fill="shadow" stroke="none" opacity=".55"/>
+    <circle cx="128" cy="144" r="17" fill="#C88FA7" data-fill="secondary"/>
+    <path d="M127 154c0-10 2-15 2-24m-1 16c-10-1-12-6-11-11 8 0 12 5 11 11Zm1-6c1-8 5-12 12-12 0 8-4 11-12 12Z" fill="#E1C5CF" data-fill="main" stroke-width="1.5"/>
+    <path d="M57 91v69m9-77h47m-48 93h40" fill="none" stroke="#E4DADE" data-stroke="highlight" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Candle</title><circle cx="128" cy="128" r="120" fill="#C5648B" data-fill="circle"/>
+  <g stroke="#592F43" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="205" rx="58" ry="10" fill="#C88FA7" data-fill="secondary"/>
+    <path d="M91 98h74v96c0 16-74 16-74 0Z" fill="#E1C5CF" data-fill="main"/>
+    <path d="M147 99v102c11-1 18-4 18-7V98Z" fill="#AB6585" data-fill="shadow" stroke="none" opacity=".6"/>
+    <path d="M91 99v37c0 9 11 9 11 0v-12c0-6 9-6 9 0v22c0 10 12 10 12 0v-30c0-6 10-7 10 0v8c0 9 12 9 12 0v-24" fill="#E4DADE" data-fill="highlight"/>
+    <ellipse cx="128" cy="98" rx="37" ry="9" fill="#E4DADE" data-fill="highlight"/>
+    <ellipse cx="128" cy="99" rx="15" ry="4" fill="#C88FA7" data-fill="secondary" stroke="none"/>
+    <path d="M127 98V80" fill="none" stroke-width="3"/>
+    <path d="M127 85c-33-14-9-41 5-51-2 22 29 35-5 51Z" fill="#C88FA7" data-fill="secondary"/>
+    <path d="M127 81c-13-8 0-18 2-25 2 10 12 18-2 25Z" fill="#E4DADE" data-fill="highlight" stroke="none"/>
+    <path d="M101 163v24" fill="none" stroke="#E4DADE" data-stroke="highlight" stroke-width="5"/>
+    <path d="M78 207h99" fill="none" stroke="#AB6585" data-stroke="shadow" stroke-width="2"/>
+  </g>
+</svg>

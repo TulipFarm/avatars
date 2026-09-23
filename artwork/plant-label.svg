@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Plant label</title><circle cx="128" cy="128" r="120" fill="#CCAE55" data-fill="circle"/>
+  <g stroke="#574933" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" transform="rotate(12 128 128)">
+    <path d="M119 135h18v66l-9 18-9-18Z" fill="#C8BA88" data-fill="secondary"/>
+    <path d="M129 140v61l-1 18 9-18v-61Z" fill="#A39563" data-fill="shadow" stroke="none" opacity=".6"/>
+    <rect x="69" y="58" width="118" height="86" rx="12" fill="#E4D9B2" data-fill="main"/>
+    <rect x="77" y="66" width="102" height="70" rx="7" fill="#C8BA88" data-fill="secondary"/>
+    <path d="M127 111V87m0 14c-17 0-25-8-24-19 16-1 24 7 24 19Zm1-7c1-16 10-24 24-23-1 14-9 22-24 23Z" fill="#E4D9B2" data-fill="main"/>
+    <path d="M108 121h41m-18 48v21" fill="none"/>
+    <path d="M83 73h24m-30 5v18" fill="none" stroke="#E5E1D0" data-stroke="highlight" stroke-width="3"/>
+    <circle cx="84" cy="126" r="2" fill="#807047" data-fill="accent" stroke="none"/>
+    <circle cx="171" cy="126" r="2" fill="#807047" data-fill="accent" stroke="none"/>
+  </g>
+</svg>

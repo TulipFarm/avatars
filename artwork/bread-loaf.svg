@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Bread loaf</title><circle cx="128" cy="128" r="120" fill="#CCAE55" data-fill="circle"/>
+  <g stroke="#574933" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M73 97c17-29 77-48 102-35 30-1 45 18 37 40l-14 13v52l-92 42-45-29v-60Z" fill="#C8BA88" data-fill="secondary"/>
+    <path d="m106 142 92-40v65l-92 42Z" fill="#A39563" data-fill="shadow" stroke="none" opacity=".55"/>
+    <path d="M61 135c-27-15-19-50 7-53 21-14 56-1 57 22 21 18 14 39-8 46v47c-17 17-48 15-61 0v-51Z" fill="#E4D9B2" data-fill="main"/>
+    <path d="M69 136c-22-10-18-36 1-39 17-12 43-1 43 17 17 13 13 27-6 30v47c-10 8-31 9-41 0v-47Z" fill="#E5E1D0" data-fill="highlight"/>
+    <path d="M135 78c8 3 14 9 15 17m8-27c9 3 15 9 16 17m7-18c9 4 13 8 14 14" fill="none" stroke="#E5E1D0" data-stroke="highlight" stroke-width="7"/>
+    <path d="m127 158 61-26m-61 40 45-19m-38 31 52-23" fill="none" stroke-width="1.5" opacity=".35"/>
+    <path d="m78 126 2 1m17-12 1 2m-20 39 1 2m18 20 2-1m-23 13 1 2m15-43 2 1" fill="none" stroke="#A39563" data-stroke="shadow" stroke-width="3.5"/>
+  </g>
+</svg>

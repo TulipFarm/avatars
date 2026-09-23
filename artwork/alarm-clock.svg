@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Alarm clock</title><circle cx="128" cy="128" r="120" fill="#4B8C89" data-fill="circle"/>
+  <g stroke="#304E50" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m88 190-11 21h13l12-13m53-1 12 14h13l-11-23" fill="#477575" data-fill="accent"/>
+    <path d="m83 77 12 14m77-14-12 14M125 65V54h6v11" fill="none" stroke-width="5"/>
+    <path d="M61 81c-5-28 27-44 45-23Z" fill="#C0D6CB" data-fill="main"/>
+    <path d="M150 58c18-21 50-5 45 23Z" fill="#C0D6CB" data-fill="main"/>
+    <path d="M71 66c5-8 14-11 21-10m69 5c7-6 13-5 21 2" fill="none" stroke="#D6E2DC" data-stroke="highlight" stroke-width="3"/>
+    <circle cx="128" cy="139" r="65" fill="#96BAB4" data-fill="secondary"/>
+    <path d="M163 85c42 59 1 116-53 116 39 14 83-16 83-62 0-23-11-43-30-54Z" fill="#72A09B" data-fill="shadow" stroke="none"/>
+    <circle cx="128" cy="139" r="53" fill="#D6E2DC" data-fill="highlight"/>
+    <path d="M128 93v9m0 74v9m-46-46h9m74 0h9m-79-33 5 5m55 55 5 5m0-66-5 5m-55 55-5 5" fill="none" stroke="#477575" data-stroke="accent" stroke-width="3"/>
+    <path d="m128 139-18-22m18 22 27-14" fill="none" stroke="#304E50" data-stroke="outline" stroke-width="4"/>
+    <circle cx="128" cy="139" r="5" fill="#96BAB4" data-fill="secondary"/>
+    <path d="M88 96c-14 12-22 27-22 44" fill="none" stroke="#C0D6CB" data-stroke="main" stroke-width="4"/>
+  </g>
+</svg>

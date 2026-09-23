@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Bonsai</title>
+  <circle cx="128" cy="128" r="120" fill="#4B8C89" data-fill="circle"/>
+  <g stroke="#304E50" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M113 184c17-28 27-49 10-74l12-9c25 33 13 59 2 83Zm17-55-35-14 2-9 39 8Zm10 19 29-30 7 6-31 41" fill="#96BAB4" data-fill="secondary"/>
+    <path d="M64 108c-12-12-1-30 13-29-2-19 25-26 33-10 18-7 35 8 27 24 7 15-6 26-21 23H79c-7 0-12-3-15-8Z" fill="#C0D6CB" data-fill="main"/>
+    <path d="M123 65c-2-16 16-25 28-15 13-13 37-1 34 15 16 6 14 26-2 29h-48c-18-1-25-19-12-29Z" fill="#96BAB4" data-fill="secondary"/>
+    <path d="M153 113c1-14 21-21 32-10 18-4 32 12 21 26-6 7-42 11-52 2-6-5-7-12-1-18Z" fill="#C0D6CB" data-fill="main"/>
+    <path d="M73 95c-1-6 5-10 13-10m56-23c8-6 17-4 23 1m-3 54c7-8 16-7 23-3" fill="none" stroke="#D6E2DC" data-stroke="highlight" stroke-width="4"/>
+    <path d="M82 185h93l-10 26H92Z" fill="#96BAB4" data-fill="secondary"/>
+    <path d="m150 186-9 25h24l10-26Z" fill="#72A09B" data-fill="shadow" stroke="none"/>
+    <rect x="76" y="177" width="105" height="12" rx="5" fill="#C0D6CB" data-fill="main"/>
+    <path d="M96 212v6m66-6v6" fill="none" stroke-width="4"/>
+  </g>
+</svg>

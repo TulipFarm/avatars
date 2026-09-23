@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Seed tray</title><circle cx="128" cy="128" r="120" fill="#5E896A" data-fill="circle"/>
+  <g stroke="#314C3E" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m51 139 14 50 125 7 15-52Z" fill="#9BB391" data-fill="secondary"/>
+    <path d="m139 148-2 45 53 3 15-52Z" fill="#7A9C7C" data-fill="shadow" stroke="none" opacity=".6"/>
+    <path d="m49 128 34-27 123 20 3 24-150 5Z" fill="#C5D3B6" data-fill="main"/>
+    <path d="m61 130 23-18 29 5-20 18Zm48 7 19-18 29 5-16 18Zm48 6 14-17 24 4 3 13Z" fill="#4C6D55" data-fill="accent"/>
+    <path d="m84 125 4-43m43 50 2-50m42 57-3-44" fill="none" stroke="#4C6D55" data-stroke="accent" stroke-width="4"/>
+    <path d="M88 98C67 98 61 88 64 76c17-1 23 9 24 22Zm0-10c-1-21 10-31 24-29 2 17-7 27-24 29Zm44 16c-21-2-29-13-25-25 19 0 27 10 25 25Zm1-14c1-19 11-28 25-26 0 17-9 26-25 26Zm40 21c-16-2-25-9-24-22 18-2 25 9 24 22Zm0-9c1-18 10-26 24-25 0 14-8 22-24 25Z" fill="#C5D3B6" data-fill="main"/>
+    <path d="m73 159 6 23m15-22 5 25m57-29-2 29m22-28-4 29" fill="none" opacity=".45"/>
+    <path d="m60 139 134 5" fill="none" stroke="#D9E0CE" data-stroke="highlight" stroke-width="3"/>
+  </g>
+</svg>

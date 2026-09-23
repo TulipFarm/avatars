@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Corn cob</title><circle cx="128" cy="128" r="120" fill="#5E896A" data-fill="circle"/>
+  <g transform="rotate(16 128 128)" stroke="#314C3E" data-stroke="outline" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M97 158V93c0-32 12-51 31-51s32 19 32 51v65l-32 41Z" fill="#C5D3B6" data-fill="main"/>
+    <path d="M144 50c11 37 6 84-9 136l25-28V93c0-19-5-33-16-43Z" fill="#7A9C7C" data-fill="shadow" stroke="none" opacity=".5"/>
+    <path d="M114 50c-6 22-6 57-6 98m19-104v116m14-112c5 25 7 56 7 100M101 76h54m-58 15h62m-62 16h63m-63 16h63m-62 16h60m-54 16h46" fill="none" stroke="#4C6D55" data-stroke="accent" stroke-width="1.5"/>
+    <path d="M126 208c-41-23-52-63-46-97 30 23 45 47 46 97Z" fill="#9BB391" data-fill="secondary"/>
+    <path d="M126 208c0-48 20-87 55-104-2 48-23 86-55 104Z" fill="#C5D3B6" data-fill="main"/>
+    <path d="m91 130 35 78 43-85" fill="none" stroke="#4C6D55" data-stroke="accent"/>
+    <path d="M117 201h21l-2 18h-17Z" fill="#9BB391" data-fill="secondary"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Tractor</title><circle cx="128" cy="128" r="120" fill="#5E896A" data-fill="circle"/>
+  <g stroke="#314C3E" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 111V69h60l13 52 59 7v39H60Z" fill="#C5D3B6" data-fill="main"/>
+    <path d="M75 78h38l8 39H75Z" fill="#9BB391" data-fill="secondary"/>
+    <path d="M75 110h44l2 7H75Zm60 37h61v20h-61Z" fill="#7A9C7C" data-fill="shadow" stroke="none" opacity=".6"/>
+    <rect x="56" y="61" width="76" height="12" rx="4" fill="#9BB391" data-fill="secondary"/>
+    <path d="M163 124V93h11v32m-16-32h21v-8h-21Z" fill="#9BB391" data-fill="secondary"/>
+    <path d="M101 121h18m-8-5 5 5m29 36h40m-1-22v17m-7-18v17m-7-18v17m-7-18v17" fill="none"/>
+    <path d="M48 156c6-35 55-49 77-17l7 21" fill="none" stroke-width="9"/>
+    <path d="M48 156c6-35 55-49 77-17l7 21" fill="none" stroke="#9BB391" data-stroke="secondary" stroke-width="5"/>
+    <circle cx="87" cy="169" r="34" fill="#4C6D55" data-fill="accent"/>
+    <circle cx="87" cy="169" r="20" fill="#C5D3B6" data-fill="main"/>
+    <circle cx="87" cy="169" r="6" fill="#9BB391" data-fill="secondary"/>
+    <circle cx="181" cy="179" r="23" fill="#4C6D55" data-fill="accent"/>
+    <circle cx="181" cy="179" r="12" fill="#C5D3B6" data-fill="main"/>
+    <path d="m87 140 1 6m-27 9 6 3m-1 31 4-5m34 8-4-5m16-27-6 2m24-28h21M81 85h23" fill="none" stroke="#D9E0CE" data-stroke="highlight" stroke-width="3"/>
+  </g>
+</svg>

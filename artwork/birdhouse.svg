@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Birdhouse</title><circle cx="128" cy="128" r="120" fill="#4B8C89" data-fill="circle"/>
+  <g stroke="#304E50" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 41v-9" fill="none" stroke="#477575" data-stroke="accent" stroke-width="4"/>
+    <path d="M76 104 128 57l52 47v98H76Z" fill="#C0D6CB" data-fill="main"/>
+    <path d="M160 90v112h20v-98Z" fill="#72A09B" data-fill="shadow" stroke="none" opacity=".65"/>
+    <path d="m57 104 71-64 71 64-9 11-62-56-62 56Z" fill="#96BAB4" data-fill="secondary"/>
+    <path d="M88 119v68m14-82v88m51-88v88m14-77v71" fill="none" stroke-width="1.2" opacity=".35"/>
+    <circle cx="128" cy="123" r="22" fill="#477575" data-fill="accent"/>
+    <path d="M110 123c0-11 7-18 18-18" fill="none" stroke="#72A09B" data-stroke="shadow" stroke-width="4"/>
+    <rect x="116" y="166" width="24" height="7" rx="3" fill="#96BAB4" data-fill="secondary"/>
+    <path d="M69 199h118v10H69Z" fill="#96BAB4" data-fill="secondary"/>
+    <path d="m77 101 51-47m-43 59v31" fill="none" stroke="#D6E2DC" data-stroke="highlight" stroke-width="3"/>
+    <circle cx="87" cy="204" r="2" fill="#477575" data-fill="accent" stroke="none"/>
+    <circle cx="169" cy="204" r="2" fill="#477575" data-fill="accent" stroke="none"/>
+  </g>
+</svg>

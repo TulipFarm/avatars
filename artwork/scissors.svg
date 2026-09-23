@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Scissors</title><circle cx="128" cy="128" r="120" fill="#C5648B" data-fill="circle"/>
+  <g stroke="#592F43" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m119 134 65-88c2 33-22 78-44 101l-8 18-16-10Z" fill="#E1C5CF" data-fill="main"/>
+    <path d="m137 134-65-88c-2 33 22 78 44 101l8 18 16-10Z" fill="#C88FA7" data-fill="secondary"/>
+    <path d="m83 66 47 74m46-75-40 67" fill="none" stroke="#E4DADE" data-stroke="highlight" stroke-width="3"/>
+    <path d="M112 151c-20-10-47 0-50 21-4 24 16 41 37 32 18-7 24-25 22-43l-9-10Zm-9 16c-12-8-28 1-28 12 0 12 10 19 20 12 8-4 13-14 8-24Z" fill="#C88FA7" data-fill="secondary" fill-rule="evenodd"/>
+    <path d="M144 151c20-10 47 0 50 21 4 24-16 41-37 32-18-7-24-25-22-43l9-10Zm9 16c12-8 28 1 28 12 0 12-10 19-20 12-8-4-13-14-8-24Z" fill="#E1C5CF" data-fill="main" fill-rule="evenodd"/>
+    <circle cx="128" cy="141" r="9" fill="#E1C5CF" data-fill="main"/>
+    <path d="m125 143 6-5" fill="none"/>
+    <path d="M67 176c2-12 14-18 25-16m54 2c10-5 23-1 29 6" fill="none" stroke="#E4DADE" data-stroke="highlight" stroke-width="3"/>
+  </g>
+</svg>

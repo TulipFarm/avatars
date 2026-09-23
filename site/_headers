@@ -1,0 +1,31 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Content-Security-Policy: default-src 'none'; img-src 'self'; style-src 'self'; script-src 'self'; base-uri 'none'; object-src 'none'; frame-ancestors 'none'; form-action 'none'
+
+/*.png
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/*.svg
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/
+  Cache-Control: no-cache
+
+/*.html
+  Cache-Control: no-cache
+
+/review
+  Cache-Control: no-cache
+
+/gallery
+  Cache-Control: no-cache
+
+/*.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: no-cache
+
+/robots.txt
+  Cache-Control: no-cache

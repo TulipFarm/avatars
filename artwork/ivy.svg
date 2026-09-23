@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Ivy</title><circle cx="128" cy="128" r="120" fill="#5E896A" data-fill="circle"/>
+  <g stroke="#314C3E" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M101 213c65-31-5-61 31-98 25-26 15-49 5-72" fill="none" stroke="#4C6D55" data-stroke="accent" stroke-width="4"/>
+    <path d="m128 176 31-25 3 15 28-2-11 20 8 16-27-1-13 17-5-23Z" fill="#C5D3B6" data-fill="main"/>
+    <path d="m127 143-29-26-1 16-27-1 10 18-9 18 25-1 14 14 5-23Z" fill="#9BB391" data-fill="secondary"/>
+    <path d="m140 104 25-26 4 15 24-4-7 21 10 13-25 3-9 16-8-22Z" fill="#C5D3B6" data-fill="main"/>
+    <path d="m143 79-28-23-1 14-25-1 10 17-7 17 23-3 12 13 6-20Z" fill="#9BB391" data-fill="secondary"/>
+    <path d="m145 187 25-10m-26 11 10 11m-44-53-23-1m24 1-12 13m56-46 22-11m-20 12 12 8m-44-38-20-3m21 5-11 11" fill="none" opacity=".5"/>
+    <path d="m149 174 7-8m8 8 13-1m-23-65 9-13m9 8 11-4" fill="none" stroke="#D9E0CE" data-stroke="highlight" stroke-width="3"/>
+  </g>
+</svg>

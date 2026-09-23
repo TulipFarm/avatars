@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Paperclip</title><circle cx="128" cy="128" r="120" fill="#4B8C89" data-fill="circle"/>
+  <g stroke-linecap="round" stroke-linejoin="round" transform="rotate(28 128 128)">
+    <path d="M149 91v84c0 48-67 48-67 0V76c0-51 87-51 87 0v96c0 21-39 23-39 0V84" fill="none" stroke="#304E50" data-stroke="outline" stroke-width="13"/>
+    <path d="M149 91v84c0 48-67 48-67 0V76c0-51 87-51 87 0v96c0 21-39 23-39 0V84" fill="none" stroke="#C0D6CB" data-stroke="main" stroke-width="8"/>
+    <path d="M85 148V77c0-20 15-31 32-31m16 41v80m-45 17c7 21 34 23 47 7" fill="none" stroke="#D6E2DC" data-stroke="highlight" stroke-width="2.5"/>
+    <path d="M167 85v84c0 10-8 15-15 15m-5-75v62" fill="none" stroke="#72A09B" data-stroke="shadow" stroke-width="2"/>
+  </g>
+</svg>

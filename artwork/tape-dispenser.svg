@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Tape dispenser</title><circle cx="128" cy="128" r="120" fill="#C46E66" data-fill="circle"/>
+  <g stroke="#5D3537" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 151v-31c0-64 86-64 86-3v23l30-3 11-27h25v87H54Z" fill="#CFA093" data-fill="secondary"/>
+    <path d="M67 127c-7-58 61-64 61-8v22l48 11 12-28h16v73H54v-25c16-2 23-20 13-45Z" fill="#E2C8BF" data-fill="main"/>
+    <path d="M183 149v36H61l-7 12h150v-73h-16Z" fill="#B0756C" data-fill="shadow" stroke="none" opacity=".6"/>
+    <circle cx="96" cy="117" r="28" fill="#E4DBD4" data-fill="highlight"/>
+    <circle cx="96" cy="117" r="13" fill="#954E4D" data-fill="accent"/>
+    <path d="m110 92 72 24 17-3v17l-16 4-69-28" fill="#E2C8BF" data-fill="main" opacity=".9"/>
+    <path d="m179 113 4-6 5 7 5-7 5 7 6-6v17h-25Z" fill="#9B6862" data-fill="shadow"/>
+    <path d="M76 119c0-11 6-20 16-22m-22 80h91" fill="none" stroke="#E4DBD4" data-stroke="highlight" stroke-width="4"/>
+    <path d="M65 201h126" fill="none" stroke="#954E4D" data-stroke="accent" stroke-width="4"/>
+  </g>
+</svg>

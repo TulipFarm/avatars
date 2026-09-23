@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Daisy</title>
+  <circle cx="128" cy="128" r="120" fill="#536EA6" data-fill="circle"/>
+  <g stroke="#314060" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126 211c8-40 10-63 5-104" fill="none" stroke="#4F658C" data-stroke="accent" stroke-width="5"/>
+    <path d="M131 181c-25-3-41-16-44-36 22 3 41 16 44 36Zm1-17c5-20 22-31 42-31-6 19-20 30-42 31Z" fill="#9AADCB" data-fill="secondary"/>
+    <g fill="#D9DEE5" data-fill="highlight">
+      <ellipse cx="128" cy="69" rx="10" ry="28"/><ellipse cx="128" cy="69" rx="10" ry="28" transform="rotate(36 128 102)"/>
+      <ellipse cx="128" cy="69" rx="10" ry="28" transform="rotate(72 128 102)"/><ellipse cx="128" cy="69" rx="10" ry="28" transform="rotate(108 128 102)"/>
+      <ellipse cx="128" cy="69" rx="10" ry="28" transform="rotate(144 128 102)"/><ellipse cx="128" cy="69" rx="10" ry="28" transform="rotate(180 128 102)"/>
+      <ellipse cx="128" cy="69" rx="10" ry="28" transform="rotate(216 128 102)"/><ellipse cx="128" cy="69" rx="10" ry="28" transform="rotate(252 128 102)"/>
+      <ellipse cx="128" cy="69" rx="10" ry="28" transform="rotate(288 128 102)"/><ellipse cx="128" cy="69" rx="10" ry="28" transform="rotate(324 128 102)"/>
+    </g>
+    <circle cx="128" cy="102" r="22" fill="#9AADCB" data-fill="secondary"/>
+    <path d="M141 85c10 20-4 35-20 36 25 7 39-17 20-36Z" fill="#758AB2" data-fill="shadow" stroke="none"/>
+    <path d="M115 95c2-5 7-8 12-8" fill="none" stroke="#D9DEE5" data-stroke="highlight" stroke-width="4"/>
+  </g>
+</svg>

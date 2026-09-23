@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Rose</title><circle cx="128" cy="128" r="120" fill="#C5648B" data-fill="circle"/>
+  <g stroke="#592F43" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 206c-8-34 9-68 0-101" fill="none" stroke="#954669" data-stroke="accent" stroke-width="5"/>
+    <path d="M126 177c-27-1-46-17-48-40 29 0 45 18 48 40Zm4-19c2-26 20-43 44-44-1 25-17 43-44 44Z" fill="#C88FA7" data-fill="secondary"/>
+    <path d="m85 144 37 29m13-22 31-29" fill="none" opacity=".5"/>
+    <path d="M128 123c-29 0-50-17-48-41-6-18 5-32 24-32 8-20 37-21 48-5 24-1 37 17 29 37 6 22-21 43-53 41Z" fill="#E1C5CF" data-fill="main"/>
+    <path d="M84 80c13 1 28 7 44 22 17-21 33-26 53-25-2 26-23 45-53 46-22 0-41-14-44-27Z" fill="#C88FA7" data-fill="secondary"/>
+    <path d="M101 61c19-7 40-7 57 8l-30 33c-19-9-29-22-27-41Z" fill="#E1C5CF" data-fill="main"/>
+    <path d="M115 68c7-13 27-12 34 0-4 12-15 20-24 20-12-9-14-16-10-20Z" fill="#AB6585" data-fill="shadow"/>
+    <path d="M121 71c7-7 15-5 18 1l-12 8Z" fill="#C88FA7" data-fill="secondary"/>
+    <path d="M91 65c1-7 5-10 12-10m8-11c11-8 24-6 32 0" fill="none" stroke="#E4DADE" data-stroke="highlight" stroke-width="4"/>
+  </g>
+</svg>

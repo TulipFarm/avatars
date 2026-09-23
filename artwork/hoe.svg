@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Hoe</title><circle cx="128" cy="128" r="120" fill="#C46E66" data-fill="circle"/>
+  <g stroke="#5D3537" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m82 202 64-143c2-5 14 0 12 5L94 208c-3 7-15 1-12-6Z" fill="#CFA093" data-fill="secondary"/>
+    <path d="m137 84 17 8 9-20-17-8Z" fill="#E2C8BF" data-fill="main"/>
+    <path d="m156 67 20 9-3 12" fill="none" stroke-width="8"/>
+    <path d="m156 67 20 9-3 12" fill="none" stroke="#CFA093" data-stroke="secondary" stroke-width="3.5"/>
+    <path d="m151 85 45 13-14 41-55-16Z" fill="#E2C8BF" data-fill="main"/>
+    <path d="m179 94-15 39 18 6 14-41Z" fill="#B0756C" data-fill="shadow" stroke="none" opacity=".6"/>
+    <path d="m144 115 12-21 19 5m-78 83 35-78" fill="none" stroke="#E4DBD4" data-stroke="highlight" stroke-width="4"/>
+    <path d="m133 119 48 14" fill="none" opacity=".4"/>
+    <circle cx="153" cy="80" r="2" fill="#954E4D" data-fill="accent" stroke="none"/>
+  </g>
+</svg>

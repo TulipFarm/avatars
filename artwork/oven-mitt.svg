@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Oven mitt</title><circle cx="128" cy="128" r="120" fill="#C5648B" data-fill="circle"/>
+  <g stroke="#592F43" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M85 173V87c0-45 71-49 75-4l3 34 9-17c14-23 38-8 27 13l-26 58-7 21H88Z" fill="#E1C5CF" data-fill="main"/>
+    <path d="M148 64c8 36 3 76-5 124h23l7-17 26-58c8-14-1-24-11-25 4 8 0 16-4 23l-26 49 2-77c-1-8-5-15-12-19Z" fill="#AB6585" data-fill="shadow" stroke="none" opacity=".5"/>
+    <path d="m93 82 59 62m-58-37 48 50m-48-22 31 32m-26-93 53 55m-35-62 35 37m-58 61 58-58m-58 31 57-58m-56 32 44-45m-25 99 36-37m-16 46 33-34" fill="none" stroke-width="1.5" opacity=".4"/>
+    <path d="M84 176h84v30H84Z" fill="#C88FA7" data-fill="secondary"/>
+    <path d="M84 186h84m-72 13h60" fill="none" stroke-width="1.5"/>
+    <path d="M166 190c22-4 25 19 8 19l-8-8" fill="none" stroke-width="7"/>
+    <path d="M166 190c22-4 25 19 8 19l-8-8" fill="none" stroke="#C88FA7" data-stroke="secondary" stroke-width="3.5"/>
+    <path d="M96 91c0-17 7-28 21-31" fill="none" stroke="#E4DADE" data-stroke="highlight" stroke-width="4"/>
+  </g>
+</svg>

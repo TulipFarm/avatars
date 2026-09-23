@@ -1,0 +1,29 @@
+name: Validate static avatars
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+      - uses: pnpm/action-setup@v4
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm test
+      - run: pnpm exec playwright install --with-deps chromium
+      - run: pnpm run test:browser
+      - run: pnpm run build:release
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cloudflare-pages
+          path: dist
+          include-hidden-files: true
+          if-no-files-found: error

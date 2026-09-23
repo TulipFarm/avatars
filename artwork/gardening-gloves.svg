@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Gardening gloves</title><circle cx="128" cy="128" r="120" fill="#CCAE55" data-fill="circle"/>
+  <g stroke="#574933" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m131 165-14-60c-2-9 9-14 13-4l6 16-10-50c-2-12 11-14 14-3l10 39-7-54c-1-11 12-12 14-1l7 53-2-46c0-11 13-12 14 0l2 53 5-36c2-11 14-9 12 2l-5 67c-1 14-12 25-14 38Z" fill="#C8BA88" data-fill="secondary"/>
+    <path d="m165 101 1 38c0 10-5 18-10 22" fill="none" stroke="#A39563" data-stroke="shadow" stroke-width="8"/>
+    <path d="m76 186-25-43c-5-9 4-16 10-8l11 12-16-56c-3-11 10-15 13-4l12 38-7-60c-1-12 13-13 14-2l8 57 2-51c0-12 14-11 14 0l-1 54 7-37c2-11 15-8 13 3l-9 68c-1 13-5 20-7 29Z" fill="#E4D9B2" data-fill="main"/>
+    <path d="m116 105-7 52c-1 12-6 22-11 30h17c2-9 6-16 7-29l9-68c1-7-3-10-7-10Z" fill="#A39563" data-fill="shadow" stroke="none" opacity=".5"/>
+    <path d="m68 94 12 41m10-63 7 61" fill="none" stroke="#E5E1D0" data-stroke="highlight" stroke-width="3"/>
+    <path d="m72 181 48-5 3 28-45 5Zm55-14 52-8 5 27-50 9Z" fill="#C8BA88" data-fill="secondary"/>
+    <path d="m84 189 2 12m12-14 2 12m43-23 3 12m12-15 2 12" fill="none" stroke="#807047" data-stroke="accent" stroke-width="2"/>
+  </g>
+</svg>

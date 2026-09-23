@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Hay bale</title><circle cx="128" cy="128" r="120" fill="#CCAE55" data-fill="circle"/>
+  <g stroke="#574933" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m54 106 100-36 49 30v78l-105 32-44-32Z" fill="#E4D9B2" data-fill="main"/>
+    <path d="m98 134 105-34v78L98 210Z" fill="#C8BA88" data-fill="secondary"/>
+    <path d="m54 106 44 28v76l-44-32Z" fill="#A39563" data-fill="shadow"/>
+    <path d="m65 107 90-28m-78 36 91-28m-80 34 91-27m-73 46 85-28m-85 40 87-29m-87 42 87-29m-87 42 87-29m-87 41 87-29m-87 41 85-28M62 121l28 18m-28-5 28 18m-28-5 28 18m-28-5 28 18m-28-5 28 18" fill="none" stroke-width="1.3" opacity=".55"/>
+    <path d="m83 96 9-3 46 29v75l-9 3v-73Zm50-18 9-3 46 30v77l-9 3v-77Z" fill="#E4D9B2" data-fill="main"/>
+    <path d="m88 98 45 28v68m5-114 45 28v70" fill="none" stroke="#807047" data-stroke="accent" stroke-width="1.5"/>
+    <path d="m59 101-4-8m30 1-1-8m116 32 9-3m-103 91 1 8m-46-35-8 3" fill="none"/>
+    <path d="m107 76 32-10m-71 42 18 10" fill="none" stroke="#E5E1D0" data-stroke="highlight" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Garden fork</title><circle cx="128" cy="128" r="120" fill="#4B8C89" data-fill="circle"/>
+  <g transform="rotate(27 128 128)" stroke="#304E50" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="116" y="43" width="24" height="69" rx="11" fill="#96BAB4" data-fill="secondary"/>
+    <path d="M132 47v55" fill="none" stroke="#72A09B" data-stroke="shadow" stroke-width="6"/>
+    <path d="M122 54v38" fill="none" stroke="#D6E2DC" data-stroke="highlight" stroke-width="4"/>
+    <rect x="115" y="103" width="26" height="12" rx="3" fill="#477575" data-fill="accent"/>
+    <path d="M123 115v27h-24v59c0 9 9 9 9 0v-47h16v52c0 9 9 9 9 0v-52h15v47c0 9 9 9 9 0v-59h-24v-27Z" fill="#C0D6CB" data-fill="main"/>
+    <path d="M103 148h48m-22 11v41m24-40v38" fill="none" stroke="#72A09B" data-stroke="shadow" stroke-width="2"/>
+    <circle cx="128" cy="55" r="3" fill="#477575" data-fill="accent" stroke-width="1.5"/>
+  </g>
+</svg>

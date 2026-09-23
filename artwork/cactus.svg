@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Cactus</title>
+  <circle cx="128" cy="128" r="120" fill="#5551B7" data-fill="circle"/>
+  <g stroke="#343060" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 147H95c-20 0-32-15-32-35v-10c0-17 21-17 21 0v9c0 10 5 14 15 14h11Z" fill="#DED6FF" data-fill="main"/>
+    <path d="M143 128h14c21 0 35-14 35-35V80c0-16-20-16-20 0v13c0 9-6 14-15 14h-14Z" fill="#DED6FF" data-fill="main"/>
+    <path d="M142 121h14c19 0 29-12 29-28V76" fill="none" stroke="#9381C9" data-stroke="shadow" stroke-width="5"/>
+    <path d="M108 166V86c0-23 8-38 23-38 16 0 24 15 24 38v80Z" fill="#DED6FF" data-fill="main"/>
+    <path d="M137 51c9 9 11 20 11 37v78h7V86c0-19-6-31-18-35Z" fill="#9381C9" data-fill="shadow" stroke="none"/>
+    <path d="M123 59c-5 9-7 18-7 33v62" fill="none" stroke="#F2EDFF" data-stroke="highlight" stroke-width="5"/>
+    <path d="M131 58v105" fill="none" stroke="#9381C9" data-stroke="shadow" stroke-width="1.7"/>
+    <path d="m107 99 6 3m-4 29 5 2m36-24 6-3m-6 34 5-2M129 48v-7m-21 27-5-3m48 0 6-3M68 96l-6-2m9 28-6 3m112-38-5-2m17 16 6 2" fill="none"/>
+    <path d="M94 169h72l-7 29c-3 15-12 23-29 23-17 0-27-8-30-23Z" fill="#B6A9EA" data-fill="secondary"/>
+    <path d="M149 174h16l-6 24c-3 15-12 23-29 23h-4c15-7 20-19 23-47Z" fill="#9381C9" data-fill="shadow" stroke="none"/>
+    <path d="m102 179 4 17c2 7 5 11 10 14" fill="none" stroke="#DED6FF" data-stroke="main" stroke-width="5"/>
+    <path d="M94 169h72l-7 29c-3 15-12 23-29 23-17 0-27-8-30-23Z" fill="none"/>
+    <rect x="89" y="158" width="82" height="16" rx="8" fill="#DED6FF" data-fill="main"/>
+    <path d="M98 164h59" fill="none" stroke="#F2EDFF" data-stroke="highlight" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Tulip bouquet</title>
+  <circle cx="128" cy="128" r="120" fill="#C46E66" data-fill="circle"/>
+  <g fill="#E2C8BF" data-fill="main" stroke="#5D3537" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m85 99 41 96m42-96-39 96m-2-108 1 104" fill="none" stroke="#954E4D" data-stroke="accent" stroke-width="5"/>
+    <path d="M113 157c-31-4-41-21-45-42 29 6 41 21 45 42Zm24-2c7-24 24-37 47-39-7 24-21 38-47 39Z" fill="#CFA093" data-fill="secondary"/>
+    <path d="M64 82c-2-12 0-22 7-32l16 17 15-5c10 25 3 45-11 48-14 2-24-10-27-28Zm91-16 19-19 8 21 15 4c-3 30-19 41-33 32-10-6-13-20-9-38Z"/>
+    <path d="M104 62c4-14 12-25 23-32 11 9 18 20 22 34l-21 39Z" fill="#E4DBD4" data-fill="highlight"/>
+    <path d="M101 55c14 1 23 9 27 20 4-11 15-19 29-20 2 31-9 48-29 48s-29-17-27-48Z"/>
+    <path d="M75 84c3 11 8 17 16 19m42-9c11-3 16-14 16-24" fill="none" stroke="#B0756C" data-stroke="shadow" stroke-width="5"/>
+    <path d="m76 125 52 30 50-30-33 84-31 4Z" fill="#CFA093" data-fill="secondary"/>
+    <path d="m76 125 52 30 17 54-31 4Z"/>
+    <path d="m130 162 15 47 33-84Z" fill="#B0756C" data-fill="shadow" stroke="none" opacity=".5"/>
+    <path d="m111 186 37-4-1 11-33 4Z" fill="#954E4D" data-fill="accent"/>
+    <path d="M130 188c-26-25-31 6-3 2m4-1c23-24 31 1 3 2m-7 5-7 15m14-15 13 11" fill="none"/>
+  </g>
+</svg>

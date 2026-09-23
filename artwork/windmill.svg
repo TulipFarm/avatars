@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Windmill</title><circle cx="128" cy="128" r="120" fill="#536EA6" data-fill="circle"/>
+  <g stroke="#314060" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m108 86-23 123h86L148 86Z" fill="#C2CEE2" data-fill="main"/>
+    <path d="m137 88 11 121h23L148 86Z" fill="#758AB2" data-fill="shadow" stroke="none" opacity=".6"/>
+    <path d="m98 88 30-32 30 32Z" fill="#9AADCB" data-fill="secondary"/>
+    <path d="M117 209v-27c0-16 22-16 22 0v27" fill="#4F658C" data-fill="accent"/>
+    <rect x="119" y="134" width="18" height="22" rx="8" fill="#9AADCB" data-fill="secondary"/>
+    <path d="M128 136v18m-8-9h16M97 187l6-39" fill="none" stroke="#D9DEE5" data-stroke="highlight" stroke-width="3"/>
+    <g transform="rotate(35 128 104)" fill="#C2CEE2" data-fill="main">
+      <path d="M128 104V30h19v61h-19m0 13h74v19h-61v-19m-13 0v74h-19v-61h19m0-13H54V85h61v19"/>
+      <path d="M128 44h19m-19 15h19m-19 16h19m40 29v19m-15-19v19m-16-19v19m-27 25h-19m19 15h-19m-40-59V85m15 19V85m16 19V85" fill="none" stroke-width="1.5"/>
+      <path d="M131 34h12v51m55 22v12h-50" fill="none" stroke="#D9DEE5" data-stroke="highlight" stroke-width="2.5"/>
+    </g>
+    <circle cx="128" cy="104" r="9" fill="#9AADCB" data-fill="secondary"/>
+    <circle cx="128" cy="104" r="3" fill="#4F658C" data-fill="accent" stroke="none"/>
+    <path d="M76 210h104" fill="none" stroke="#4F658C" data-stroke="accent" stroke-width="4"/>
+  </g>
+</svg>

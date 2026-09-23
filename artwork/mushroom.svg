@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Mushroom</title><circle cx="128" cy="128" r="120" fill="#C46E66" data-fill="circle"/>
+  <g stroke="#5D3537" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="128" cy="204" rx="48" ry="7" fill="#954E4D" data-fill="accent" opacity=".25" stroke="none"/>
+    <path d="M112 123c-1 28-4 46-13 63-11 22 67 27 59 2-9-23-15-46-14-66Z" fill="#E2C8BF" data-fill="main"/>
+    <path d="M134 124c-2 31 6 68 13 78 10-2 15-6 11-14-9-23-15-46-14-66Z" fill="#B0756C" data-fill="shadow" stroke="none" opacity=".5"/>
+    <ellipse cx="128" cy="124" rx="75" ry="18" fill="#CFA093" data-fill="secondary"/>
+    <path d="M55 124c-1-30 32-72 72-72 42 0 75 42 75 72-26 9-118 9-147 0Z" fill="#E2C8BF" data-fill="main"/>
+    <path d="M157 59c19 26 24 46 22 70l23-5c0-27-18-52-45-65Z" fill="#B0756C" data-fill="shadow" stroke="none" opacity=".55"/>
+    <ellipse cx="104" cy="77" rx="13" ry="9" fill="#E4DBD4" data-fill="highlight" stroke="none" transform="rotate(-24 104 77)"/>
+    <ellipse cx="147" cy="91" rx="16" ry="12" fill="#CFA093" data-fill="secondary"/>
+    <ellipse cx="81" cy="110" rx="10" ry="7" fill="#CFA093" data-fill="secondary"/>
+    <path d="M110 156c0 10-3 24-7 30" fill="none" stroke="#E4DBD4" data-stroke="highlight" stroke-width="4"/>
+    <path d="m91 133 8 6m63-6-8 6" fill="none" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Lemon</title><circle cx="128" cy="128" r="120" fill="#CCAE55" data-fill="circle"/>
+  <g stroke="#574933" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M163 85c-1-31 12-43 34-41 0 23-13 39-34 41Z" fill="#C8BA88" data-fill="secondary"/>
+    <path d="m168 79 18-22" fill="none" stroke="#807047" data-stroke="accent"/>
+    <path d="M58 166c-8-6-9-15-1-22 0-39 34-73 78-74 15-6 27-3 34 4 10 8 15 19 11 32 1 43-35 81-77 81-11 10-24 9-29-2-7-3-13-9-16-19Z" fill="#E4D9B2" data-fill="main"/>
+    <path d="M176 87c-6 47-39 77-81 81-11 7-23 5-37-2 3 10 9 16 16 19 5 11 18 12 29 2 42 0 78-38 77-81 2-7 1-14-4-19Z" fill="#A39563" data-fill="shadow" stroke="none" opacity=".5"/>
+    <path d="M78 127c12-22 31-34 53-37" fill="none" stroke="#E5E1D0" data-stroke="highlight" stroke-width="6"/>
+    <path d="m95 146 1 1m20-14 1 1m23 4 1 1m6-25 1 1m-24 48 1 1" fill="none" stroke="#A39563" data-stroke="shadow" stroke-width="3"/>
+    <path d="m79 195 17 7" fill="none" stroke="#807047" data-stroke="accent" opacity=".35"/>
+  </g>
+</svg>

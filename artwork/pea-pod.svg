@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Pea pod</title><circle cx="128" cy="128" r="120" fill="#5E896A" data-fill="circle"/>
+  <g stroke="#314C3E" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 186c-8-62 48-112 119-119-9 74-52 124-119 119Z" fill="#C5D3B6" data-fill="main"/>
+    <path d="M69 185c59-16 87-52 117-117-8 73-53 124-117 117Z" fill="#7A9C7C" data-fill="shadow" stroke="none" opacity=".6"/>
+    <path d="M78 175c3-50 51-90 98-97-7 47-48 93-98 97Z" fill="#4C6D55" data-fill="accent"/>
+    <circle cx="98" cy="156" r="16" fill="#9BB391" data-fill="secondary"/>
+    <circle cx="124" cy="130" r="18" fill="#C5D3B6" data-fill="main"/>
+    <circle cx="150" cy="103" r="16" fill="#9BB391" data-fill="secondary"/>
+    <path d="M187 67c-9-23 15-28 18-13 1 8-7 11-11 7" fill="none" stroke="#4C6D55" data-stroke="accent" stroke-width="4"/>
+    <path d="M178 73c-19 0-28-11-27-23 16 0 26 9 27 23Z" fill="#C5D3B6" data-fill="main"/>
+    <path d="M87 154c0-6 5-10 11-10m14-17c2-6 6-9 13-9m14-16c0-5 4-9 10-9M73 176c1-24 14-48 31-65" fill="none" stroke="#D9E0CE" data-stroke="highlight" stroke-width="3"/>
+    <path d="m68 186-9 8" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Sunflower</title>
+  <circle cx="128" cy="128" r="120" fill="#CCAE55" data-fill="circle"/>
+  <g stroke="#574933" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 205v-89" fill="none" stroke="#807047" data-stroke="accent" stroke-width="6"/>
+    <path d="M128 182c-27-1-43-17-47-39 25 0 43 15 47 39Zm1-19c7-23 23-33 44-33-3 20-20 34-44 33Z" fill="#C8BA88" data-fill="secondary"/>
+    <g fill="#E4D9B2" data-fill="main">
+      <ellipse cx="128" cy="70" rx="14" ry="28"/><ellipse cx="128" cy="70" rx="14" ry="28" transform="rotate(45 128 100)"/>
+      <ellipse cx="128" cy="70" rx="14" ry="28" transform="rotate(90 128 100)"/><ellipse cx="128" cy="70" rx="14" ry="28" transform="rotate(135 128 100)"/>
+      <ellipse cx="128" cy="70" rx="14" ry="28" transform="rotate(180 128 100)"/><ellipse cx="128" cy="70" rx="14" ry="28" transform="rotate(225 128 100)"/>
+      <ellipse cx="128" cy="70" rx="14" ry="28" transform="rotate(270 128 100)"/><ellipse cx="128" cy="70" rx="14" ry="28" transform="rotate(315 128 100)"/>
+    </g>
+    <circle cx="128" cy="100" r="27" fill="#C8BA88" data-fill="secondary"/>
+    <path d="M142 77c18 23 3 45-20 49 29 7 48-27 20-49Z" fill="#A39563" data-fill="shadow" stroke="none"/>
+    <path d="m113 92 2 2m12-8 2 2m12 8 2 2m-24 8 2 2m12 7 2 2m-5-16 2 2" fill="none" stroke-width="3"/>
+    <path d="M110 86c-5 3-8 9-8 15" fill="none" stroke="#E5E1D0" data-stroke="highlight" stroke-width="4"/>
+  </g>
+</svg>

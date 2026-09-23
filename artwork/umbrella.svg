@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Umbrella</title>
+  <circle cx="128" cy="128" r="120" fill="#EB6198" data-fill="circle"/>
+  <g transform="rotate(24 128 128)" stroke="#622642" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M123 89V59c0-12 8-20 18-20s18 8 18 18v9c0 4-2 6-5 6s-6-2-6-6v-9c0-4-3-7-7-7s-7 4-7 9v30Z" fill="#AF3F70" data-fill="accent"/>
+    <path d="M128 60c0-13 9-17 17-14" fill="none" stroke="#E795B8" data-stroke="secondary" stroke-width="3"/>
+    <path d="m98 88 13-11 17 7 18-7 14 11-11 36-13 69-8 23-9-22-11-71Z" fill="#FFD6E5" data-fill="main"/>
+    <path d="m146 78 14 10-11 36-13 69-8 23 6-79Z" fill="#C76491" data-fill="shadow" stroke="none" opacity=".65"/>
+    <path d="m111 78 6 46 11 92 5-94-5-38Z" fill="#FFF0F6" data-fill="highlight" stroke="none"/>
+    <path d="m98 88 13-11 17 7 18-7 14 11-11 36-13 69-8 23-9-22-11-71Z" fill="none"/>
+    <path d="m111 79 6 45 11 91 5-93-5-38m18-6-13 44m-25 2 11 70" fill="none" stroke-width="1.7"/>
+    <path d="m125 211 3 5 4-7v14c0 6-7 6-7 0Z" fill="#AF3F70" data-fill="accent"/>
+    <path d="M108 122h40v15h-40c-3 0-5-3-5-7s2-8 5-8Z" fill="#E795B8" data-fill="secondary"/>
+    <path d="M108 126h29" fill="none" stroke="#FFD6E5" data-stroke="main" stroke-width="2"/>
+    <circle cx="139" cy="130" r="3.5" fill="#FFF0F6" data-fill="highlight" stroke-width="1.7"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Moka pot</title><circle cx="128" cy="128" r="120" fill="#536EA6" data-fill="circle"/>
+  <g stroke="#314060" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M159 83h34c18 15 12 43-4 62l-14-7c14-17 18-30 8-39h-20Z" fill="#4F658C" data-fill="accent"/>
+    <path d="m84 89-24-15 4 30 31 26m-14-47h86l-11 69H96Z" fill="#C2CEE2" data-fill="main"/>
+    <path d="m144 84-7 66h19l11-67Z" fill="#758AB2" data-fill="shadow" stroke="none"/>
+    <path d="m88 83 36-20 42 20Z" fill="#9AADCB" data-fill="secondary"/>
+    <rect x="116" y="54" width="17" height="13" rx="4" fill="#4F658C" data-fill="accent"/>
+    <path d="m102 88 5 52" fill="none" stroke="#D9DEE5" data-stroke="highlight" stroke-width="6"/>
+    <path d="m98 160-15 43 19 9h47l22-9-16-43Z" fill="#C2CEE2" data-fill="main"/>
+    <path d="m143 161 6 51 22-9-16-43Z" fill="#758AB2" data-fill="shadow" stroke="none"/>
+    <path d="m110 162-8 50m34-50 1 50" fill="none" stroke="#9AADCB" data-stroke="secondary"/>
+    <rect x="94" y="148" width="65" height="14" rx="3" fill="#4F658C" data-fill="accent"/>
+    <circle cx="115" cy="181" r="5" fill="#9AADCB" data-fill="secondary"/>
+    <path d="M87 202h79" fill="none" stroke="#4F658C" data-stroke="accent" stroke-width="1.5"/>
+  </g>
+</svg>

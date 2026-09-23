@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Harvest basket</title><circle cx="128" cy="128" r="120" fill="#4B8C89" data-fill="circle"/>
+  <g stroke="#304E50" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 130c-2-106 98-105 96 0" fill="none" stroke="#96BAB4" data-stroke="secondary" stroke-width="12"/>
+    <path d="M80 130c-2-106 98-105 96 0" fill="none" stroke-width="2"/>
+    <path d="M96 103c-27-18-39 8-28 34 10 22 45 23 58 1 12-27-4-52-30-35Z" fill="#C0D6CB" data-fill="main"/>
+    <path d="m96 104 3-17m-2 11c-14 2-25-4-28-16 13-1 24 4 28 16Z" fill="#96BAB4" data-fill="secondary"/>
+    <path d="M130 138c-4-32 7-56 26-59 26-5 29 37 17 66Z" fill="#96BAB4" data-fill="secondary"/>
+    <path d="m154 83 7-17m-23 38 14 5m-18 8 15 5" fill="none"/>
+    <circle cx="167" cy="128" r="22" fill="#C0D6CB" data-fill="main"/>
+    <path d="M61 137h134l-20 61c-10 16-82 16-93 0Z" fill="#96BAB4" data-fill="secondary"/>
+    <path d="m169 143-15 62 21-7 20-61Z" fill="#72A09B" data-fill="shadow" stroke="none"/>
+    <path d="m83 147 14 52m5-52 8 56m13-56 2 59m18-59-5 56m24-56-11 52m-81-36h114m-108 16h101m-94 16h82" fill="none" stroke="#477575" data-stroke="accent" stroke-width="1.5"/>
+    <rect x="57" y="129" width="142" height="15" rx="7" fill="#C0D6CB" data-fill="main"/>
+    <path d="M69 135h99" fill="none" stroke="#D6E2DC" data-stroke="highlight" stroke-width="3"/>
+  </g>
+</svg>

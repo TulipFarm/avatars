@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Apple</title><circle cx="128" cy="128" r="120" fill="#5E896A" data-fill="circle"/>
+  <g stroke="#314C3E" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126 97c2-21 0-32-9-42l12-6c12 13 11 28 5 48Z" fill="#4C6D55" data-fill="accent"/>
+    <path d="M135 79c9-27 31-35 52-29-7 25-29 35-52 29Z" fill="#9BB391" data-fill="secondary"/>
+    <path d="m139 77 32-20" fill="none" stroke="#4C6D55" data-stroke="accent" stroke-width="1.5"/>
+    <path d="M128 94C90 68 59 96 62 135c2 42 25 77 48 74l18-5 18 5c23 3 46-32 48-74 3-39-28-67-66-41Z" fill="#C5D3B6" data-fill="main"/>
+    <path d="M165 88c31 42 4 101-29 119 31 19 77-66 53-103-6-9-13-14-24-16Z" fill="#7A9C7C" data-fill="shadow" stroke="none" opacity=".6"/>
+    <path d="M89 106c-14 11-16 28-12 45" fill="none" stroke="#D9E0CE" data-stroke="highlight" stroke-width="6"/>
+    <path d="M114 94c8 5 17 5 27 0m-20 104 7-3 7 3" fill="none" stroke="#4C6D55" data-stroke="accent" stroke-width="2"/>
+  </g>
+</svg>

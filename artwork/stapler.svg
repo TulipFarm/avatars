@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Stapler</title><circle cx="128" cy="128" r="120" fill="#536EA6" data-fill="circle"/>
+  <g stroke="#314060" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m54 159 35-16 113 15 2 25-31 20-116-16Z" fill="#9AADCB" data-fill="secondary"/>
+    <path d="m57 170 116 16 31-16v13l-31 20-116-16Z" fill="#758AB2" data-fill="shadow" stroke="none" opacity=".6"/>
+    <path d="m65 158 106 15 25-13-104-13Z" fill="#C2CEE2" data-fill="main"/>
+    <path d="m73 155 25 4 8-4-24-4Z" fill="#4F658C" data-fill="accent"/>
+    <path d="m176 158-9-55 21 2 11 55" fill="#9AADCB" data-fill="secondary"/>
+    <path d="m57 99 34-23 93 23c13 3 20 19 11 31l-22 14-119-29Z" fill="#C2CEE2" data-fill="main"/>
+    <path d="m57 99 114 27 25-17c7 7 5 16-1 21l-22 14-119-29Z" fill="#9AADCB" data-fill="secondary"/>
+    <path d="m58 115 115 29v11L57 126Z" fill="#C2CEE2" data-fill="main"/>
+    <path d="m63 105 101 24m-91-32 18-12 71 18" fill="none" stroke="#D9DEE5" data-stroke="highlight" stroke-width="3"/>
+    <circle cx="183" cy="128" r="4" fill="#4F658C" data-fill="accent"/>
+    <path d="m71 183 25 4m56 8 17 2" fill="none" stroke="#4F658C" data-stroke="accent" stroke-width="4"/>
+  </g>
+</svg>

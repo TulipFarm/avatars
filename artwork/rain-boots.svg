@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Rain boots</title><circle cx="128" cy="128" r="120" fill="#5E896A" data-fill="circle"/>
+  <g stroke="#314C3E" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M129 65h49l-3 93c25 1 39 11 38 27v10h-91v-27Z" fill="#9BB391" data-fill="secondary"/>
+    <path d="m163 68-3 98c27 0 40 7 43 22h10c1-19-11-28-38-30l3-93Z" fill="#7A9C7C" data-fill="shadow" stroke="none"/>
+    <path d="M69 81h51l-4 91c23 0 39 11 39 26v10H63v-28Z" fill="#C5D3B6" data-fill="main"/>
+    <path d="m103 85-3 96c26 0 39 7 43 22h12c-1-19-15-29-39-31l4-91Z" fill="#7A9C7C" data-fill="shadow" stroke="none" opacity=".6"/>
+    <path d="M64 197h91v12H63Zm60-13h89v12h-91Z" fill="#4C6D55" data-fill="accent"/>
+    <path d="M68 81h54v13H68Zm60-16h52v13h-52Z" fill="#9BB391" data-fill="secondary"/>
+    <path d="m78 105-4 61m64-76-3 58" fill="none" stroke="#D9E0CE" data-stroke="highlight" stroke-width="5"/>
+    <path d="M69 207v5m15-5v5m16-5v5m16-5v5m16-5v5m17-5v5m15-19v6m15-6v6m15-6v6" fill="none" stroke-width="3"/>
+  </g>
+</svg>

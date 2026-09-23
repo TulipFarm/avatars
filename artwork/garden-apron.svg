@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Garden apron</title><circle cx="128" cy="128" r="120" fill="#C5648B" data-fill="circle"/>
+  <g stroke="#592F43" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 80V60c0-30 48-30 48 0v20h-10V60c0-17-28-17-28 0v20Z" fill="#C88FA7" data-fill="secondary"/>
+    <path d="M94 76h68c-4 33 5 45 25 53l12 72c-42 17-99 17-142 0l12-72c20-8 29-20 25-53Z" fill="#E1C5CF" data-fill="main"/>
+    <path d="M155 79c-1 33 5 49 17 59l12 68 15-5-12-72c-20-8-29-20-25-53Z" fill="#AB6585" data-fill="shadow" stroke="none" opacity=".55"/>
+    <path d="m69 132-23 10 4 9 17-5m120-14 23 10-4 9-17-5" fill="#C88FA7" data-fill="secondary"/>
+    <path d="M88 146h80v32c-22 12-58 12-80 0Z" fill="#C88FA7" data-fill="secondary"/>
+    <path d="M128 148v38m-34-32h28m12 0h28" fill="none" stroke-width="1.5"/>
+    <path d="M109 145v-23m-7-3h14v9h-14Z" fill="#9B5879" data-fill="accent"/>
+    <path d="m145 146 3-22m-5-7c-8-13 10-15 8-2" fill="none" stroke="#954669" data-stroke="accent" stroke-width="4"/>
+    <path d="M104 85c0 20-4 34-14 43m-19 65c20 6 42 9 62 8" fill="none" stroke="#E4DADE" data-stroke="highlight" stroke-width="4"/>
+  </g>
+</svg>

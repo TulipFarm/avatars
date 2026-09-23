@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Plant mister</title><circle cx="128" cy="128" r="120" fill="#55539A" data-fill="circle"/>
+  <g stroke="#393658" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M111 108c-34 15-43 39-36 69 5 22 24 32 53 32 30 0 48-10 53-32 6-30-2-54-37-69Z" fill="#C9C4E1" data-fill="main"/>
+    <path d="M149 116c17 25 14 69-7 90 22-3 35-13 39-29 6-26-2-47-32-61Z" fill="#887CAE" data-fill="shadow" stroke="none" opacity=".6"/>
+    <path d="M96 132c-14 15-17 30-11 43" fill="none" stroke="#DBD7E4" data-stroke="highlight" stroke-width="6"/>
+    <path d="M100 123v68m18-73v82m19-82v82m19-77v68" fill="none" stroke="#A79ECB" data-stroke="secondary" stroke-width="2"/>
+    <rect x="109" y="95" width="37" height="22" rx="5" fill="#A79ECB" data-fill="secondary"/>
+    <path d="M122 95V64h12v31m0-17h27l12 10 8-8-15-17h-32" fill="#C9C4E1" data-fill="main"/>
+    <rect x="111" y="51" width="34" height="13" rx="6" fill="#A79ECB" data-fill="secondary"/>
+    <path d="M109 91c-31-7-36-38-16-42 13-3 19 7 16 15" fill="none" stroke="#6A5B92" data-stroke="accent" stroke-width="5"/>
+    <path d="m187 88 6 4m-12 5 4 6m10-28 7 1" fill="none" stroke="#DBD7E4" data-stroke="highlight" stroke-width="3"/>
+  </g>
+</svg>

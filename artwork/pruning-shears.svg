@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Pruning shears</title><circle cx="128" cy="128" r="120" fill="#C46E66" data-fill="circle"/>
+  <g stroke="#5D3537" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M125 130c-30-27-33-56-21-89-1 28 20 43 37 61Z" fill="#E2C8BF" data-fill="main"/>
+    <path d="M125 120c30-7 52-31 54-58 16 40-1 69-35 79Z" fill="#CFA093" data-fill="secondary"/>
+    <path d="M131 118c29-10 39-25 45-38-3 23-16 41-35 47Z" fill="#B0756C" data-fill="shadow" stroke="none"/>
+    <path d="m123 127-23 35m42-31 18 33" fill="none" stroke="#954E4D" data-stroke="accent" stroke-width="12"/>
+    <path d="M99 152c-14-1-37 28-29 48 10 23 39-2 43-22 2-13-3-22-14-26Zm-3 17c-7 2-16 16-14 23 4 7 15-6 17-14 1-5 0-8-3-9Z" fill="#E2C8BF" data-fill="main" fill-rule="evenodd"/>
+    <path d="M159 153c15-1 36 30 27 49-11 22-37-4-41-24-2-13 3-22 14-25Zm3 17c7 2 14 16 11 23-4 6-14-7-15-15-1-5 1-8 4-8Z" fill="#CFA093" data-fill="secondary" fill-rule="evenodd"/>
+    <path d="m110 150 8 4 5-7 6 9 8-6 8 5" fill="none" stroke-width="2"/>
+    <circle cx="132" cy="124" r="12" fill="#CFA093" data-fill="secondary"/>
+    <circle cx="132" cy="124" r="5" fill="#E4DBD4" data-fill="highlight"/>
+    <path d="M98 164c-8 5-17 17-18 24" fill="none" stroke="#E4DBD4" data-stroke="highlight" stroke-width="3"/>
+  </g>
+</svg>

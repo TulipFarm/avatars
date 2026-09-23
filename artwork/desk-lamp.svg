@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>Desk lamp</title><circle cx="128" cy="128" r="120" fill="#5E896A" data-fill="circle"/>
+  <g stroke="#314C3E" data-stroke="outline" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m127 196 36-63-39-57m-6 120 32-62-36-52" fill="none" stroke="#4C6D55" data-stroke="accent" stroke-width="5"/>
+    <circle cx="157" cy="132" r="9" fill="#9BB391" data-fill="secondary"/>
+    <circle cx="157" cy="132" r="3" fill="#D9E0CE" data-fill="highlight" stroke="none"/>
+    <path d="M74 80c1-33 36-45 58-22l8 29-53 32Z" fill="#C5D3B6" data-fill="main"/>
+    <path d="M118 48c12 18 12 42-2 51l24-12-8-29c-4-5-9-8-14-10Z" fill="#7A9C7C" data-fill="shadow" stroke="none" opacity=".55"/>
+    <ellipse cx="113" cy="104" rx="34" ry="10" transform="rotate(-31 113 104)" fill="#9BB391" data-fill="secondary"/>
+    <path d="M104 108c4 17 23 10 17-7" fill="#D9E0CE" data-fill="highlight"/>
+    <path d="M85 75c2-11 9-19 19-21" fill="none" stroke="#D9E0CE" data-stroke="highlight" stroke-width="5"/>
+    <path d="M80 203c6-25 93-25 98 0v8H80Z" fill="#C5D3B6" data-fill="main"/>
+    <path d="M145 188c14 6 20 12 21 23h12v-8c-2-8-14-13-33-15Z" fill="#7A9C7C" data-fill="shadow" stroke="none"/>
+    <path d="M92 201h56" fill="none" stroke="#D9E0CE" data-stroke="highlight" stroke-width="4"/>
+    <rect x="146" y="197" width="13" height="5" rx="2" fill="#4C6D55" data-fill="accent" stroke="none"/>
+  </g>
+</svg>
