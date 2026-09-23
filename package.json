@@ -1,6 +1,24 @@
 {
   "name": "tulipfarm-avatars",
   "version": "0.1.0",
+  "description": "100 original object avatars in eight colors, served as static SVG and PNG files.",
+  "homepage": "https://avatars.tulipfarm.ai/",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TulipFarm/avatars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TulipFarm/avatars/issues"
+  },
+  "keywords": [
+    "avatars",
+    "object-avatars",
+    "svg",
+    "png",
+    "static-site",
+    "cloudflare-pages"
+  ],
   "private": true,
   "type": "module",
   "packageManager": "pnpm@11.1.3",
